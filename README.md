@@ -1,11 +1,11 @@
 Project-3-Group-2
 Healthcare
 
-**A short project proposal. **
+**A short project proposal**
 
 The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
-****Scope and Research Questions: ***
+**Scope and Research Questions**
 
 Patient Demographics: How do age, gender and blood type relate to different medical conditions? 
 Cost Analysis:What is the cost associated with different medical conditions and which age groups are most affected? 
