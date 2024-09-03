@@ -24,6 +24,11 @@ NOTE: We acknowledge the importance of healthcare data privacy and security and 
 **Link to Primary Hub : **
 
 [GitHub - kajalkjain/Project-3-Group-2: Healthcare](https://github.com/kajalkjain/Project-3-Group-2.git)
+
+
+**Inspiring Visuals**
+
+
 ![image](https://github.com/user-attachments/assets/f8d48a3c-f39b-4e31-b06e-6b61b8f11402)
 
 
