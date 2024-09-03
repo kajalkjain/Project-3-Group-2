@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7e64ab30-b6ce-450c-ae3e-0bfdb84ff1a0)# Project-3-Group-2
+Project-3-Group-2
 Healthcare
 
 **Goal and objective**
