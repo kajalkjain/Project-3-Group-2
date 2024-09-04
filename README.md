@@ -1,34 +1,50 @@
 Project-3-Group-2
 Healthcare
 
-**Goal and objective**
-The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers, Health Insurance providers and patients to make more informed decisions .
-Patient Demographics: How age, gender, and blood type relate to different medical conditions.
-Cost Analysis: How much different medical conditions cost and which age groups are affected the most.
-Common Conditions: What medical issues are most common in different age groups and how they impact costs.
+**A short project proposal**
 
+The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
-**Data Source :**
+**Scope and Research Questions**
+
+Patient Demographics: How do age, gender and blood type relate to different medical conditions? 
+Cost Analysis:What is the cost associated with different medical conditions and which age groups are most affected? 
+What are the most common medical conditions in different age groups, and how do they impact healthcare costs? 
+Can we accurately predict medical test results (Normal, Abnormal, Inconclusive) based on patient demographics, medical conditions and treatment data? 
+How does the cost of treatment vary by insurance provider, and what impact does this have on patient outcomes?
+Project Objective
+Project Title:Predictive Modelling of Medical Test Results Using Synthetic Healthcare Data 
+To develop and evaluate a machine learning model to predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
+
+**Data Source:**
 We sourced our data from kaggle. Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset 
 
+Note : We acknowledge the importance of healthcare data privacy and security and emphasise that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations (This data has been generated using Python's Faker library to mimic real healthcare records, enabling safe learning and experimentation in healthcare analytics.)
 
-**Various Data Visualisations**
+**Visualisation Types**
+Histograms; Bar charts, Pie charts to visualise the proportion of different admission types (Emergency, Elective, Urgent).
+Heatmaps to explore correlations between features like age, billing amount, and test results.
+Box plots to compare billing amounts across different medical conditions.
+Regression plots to analyse the relationship between variables such as age and billing amount, or between medical conditions and test results.
+Tools and Technologies
+Python
+
+**Pandas: For data cleaning,transforming and analysis.**
+Matplotlib: For creating visualisations like bar charts, pie charts, and heatmaps
+Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
+Jupyter Notebook: To interactively explore and analyse data
+
+**Expected Outcomes**
+Goal: To provide clear insights into how different features impact the prediction of medical test results.
 How: Data visualisations such as bar charts, Line plots and scatter plots will be created to explore the distribution of features and their relationships with test results.
-    the frequency of each medical condition in the dataset, giving an overview of the most common health issues.
-    average number of days patients stay in the hospital for each medical condition, helping us understand which conditions typically require longer hospital stays.
-    the market share of different insurance providers among the patients in the dataset.
+the frequency of each medical condition in the dataset, giving an overview of the most common health issues.
+average number of days patients stay in the hospital for each medical condition, helping us understand which conditions typically require longer hospital stays.
+the market share of different insurance providers among the patients in the dataset.
+To Target Audience: Helps healthcare professionals and data scientists understand which factors are most influential in predicting test results, leading to more transparent and interpretable models. Helps inform feature engineering and model development strategies
 
+https://media.licdn.com/dms/image/D5612AQE9qXxEJZB9Kg/article-cover_image-shrink_600_2000/0/1701942603432?e=2147483647&v=beta&t=SaJ3h3bOznZ9mXEOVs_BsupVeThur2AcaByqXJMQltU
 
-NOTE: We acknowledge the importance of healthcare data privacy and security and emphasise that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations (This data has been generated using Python's Faker library to mimic real healthcare records, enabling safe learning and experimentation in healthcare analytics.)
+![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
 
-**Link to Primary Hub : **
-
-[GitHub - kajalkjain/Project-3-Group-2: Healthcare](https://github.com/kajalkjain/Project-3-Group-2.git)
-
-
-**Inspiring Visuals**
-
-
-![image](https://github.com/user-attachments/assets/f8d48a3c-f39b-4e31-b06e-6b61b8f11402)
 
 
