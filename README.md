@@ -1,9 +1,12 @@
-##Project-3-Group-2
-##Healthcare
+Project-3-Group-2
+Healthcare
 
 **A short project proposal**
 
 The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
+
+![image](https://github.com/user-attachments/assets/37a95756-a8c3-410f-b9b3-9311cfa85882)
+
 
 **Project Title** Data Visualisation track
 
