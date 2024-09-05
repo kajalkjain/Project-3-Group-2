@@ -9,9 +9,10 @@ The aim of our project is to provide insights into trends, costs and outcomes wi
 ![image](https://github.com/user-attachments/assets/37a95756-a8c3-410f-b9b3-9311cfa85882)
 
 
-**Project Title** Data Visualisation track
+## Project Title 
+**Data Visualisation track**
 
-**Project Objective**
+## Project Objective
 
 To develop and evaluate a machine learning model to predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
 
@@ -62,21 +63,22 @@ How do patient demographics (age, gender) influence the types of test results?
 What is the frequency of different doctors treating specific medical conditions?
     Visualization: Bar chart or heatmap. (Sima)
     
-**Data Source:**
+## Data Source
 
 We sourced our data from kaggle. Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset 
 
-**Data Ethics**
+## Data Ethics
 
 We acknowledge the importance of healthcare data privacy and security and emphasise that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations (This data has been generated using Python's Faker library to mimic real healthcare records, enabling safe learning and experimentation in healthcare analytics.)
 
-**Visualisation Types**
+## Visualisation Types
 
 Histograms, Bar charts, Pie charts to visualise the proportion of different admission types (Emergency, Elective, Urgent).
 Heatmaps to explore correlations between features like age, billing amount, and test results.
 Box plots to compare billing amounts across different medical conditions.
 Regression plots to analyse the relationship between variables such as age and billing amount, or between medical conditions and test results.
-Tools and Technologies
+
+**Tools and Technologies**
 Python
 
   
@@ -86,7 +88,7 @@ Python
                          Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
                          Jupyter Notebook: To interactively explore and analyse data
 
-**Expected Outcomes**
+## Expected Outcomes
 Goal: To provide clear insights into how different features impact the prediction of medical test results.
 How: Data visualisations such as bar charts, Line plots and scatter plots will be created to explore the distribution of features and their relationships with test results.
 the frequency of each medical condition in the dataset, giving an overview of the most common health issues.
