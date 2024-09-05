@@ -4,7 +4,7 @@
 
 **A Short Project Proposal**
 
-The aim of our project is to provide insights into trends, costs and the outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
+The main aim of our project is to provide insights into trends, costs and the outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
 ![image](https://github.com/user-attachments/assets/37a95756-a8c3-410f-b9b3-9311cfa85882)
 
@@ -14,7 +14,7 @@ The aim of our project is to provide insights into trends, costs and the outcome
 
 ## Project Objective
 
-To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
+To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The objective of the project is to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
 
 **Scope and Research Questions**
 
