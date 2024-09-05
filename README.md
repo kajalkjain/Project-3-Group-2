@@ -99,7 +99,7 @@ Python
   
   - **Python Pandas** For data cleaning,transforming and analysis
   
-  - **PostreSQL** To store and extra data(Napat gentle reminder to work on this)
+  - **PostgreSQL** To store and extra data(Napat gentle reminder to work on this)
   
   - **Data Visulaisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
                          Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
