@@ -97,21 +97,23 @@ Regression plots to analyse the relationship between variables such as age and b
 Python
 
   
-  **Python Pandas** For data cleaning,transforming and analysis
+  - **Python Pandas** For data cleaning,transforming and analysis
   
-  **PostreSQL** To store and extra data(Napat gentle reminder to work on this)
+  - **PostreSQL** To store and extra data(Napat gentle reminder to work on this)
   
-  **Data Visulaisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
+  - **Data Visulaisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
                          Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
                          Jupyter Notebook: To interactively explore and analyse data
 
 ## Expected Outcomes
-Goal: To provide clear insights into how different features impact the prediction of medical test results.
-How: Data visualisations such as bar charts, Line plots and scatter plots will be created to explore the distribution of features and their relationships with test results.
+- **Goal:** To provide clear insights into how different features impact the prediction of medical test results.
+
+- **How:** Data visualisations such as bar charts, Line plots and scatter plots will be created to explore the distribution of features and their relationships with test results.
 the frequency of each medical condition in the dataset, giving an overview of the most common health issues.
 average number of days patients stay in the hospital for each medical condition, helping us understand which conditions typically require longer hospital stays.
 the market share of different insurance providers among the patients in the dataset.
-To Target Audience: Helps healthcare professionals and data scientists understand which factors are most influential in predicting test results, leading to more transparent and interpretable models. Helps inform feature engineering and model development strategies
+
+- **To Target Audience:** Helps healthcare professionals and data scientists understand which factors are most influential in predicting test results, leading to more transparent and interpretable models. Helps inform feature engineering and model development strategies
 
 https://media.licdn.com/dms/image/D5612AQE9qXxEJZB9Kg/article-cover_image-shrink_600_2000/0/1701942603432?e=2147483647&v=beta&t=SaJ3h3bOznZ9mXEOVs_BsupVeThur2AcaByqXJMQltU
 
