@@ -5,34 +5,54 @@ Healthcare
 
 The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
-**Scope and Research Questions**
+**Project Title: ** Predictive Modelling of Medical Test Results Using Synthetic Healthcare Data 
 
-Patient Demographics: How do age, gender and blood type relate to different medical conditions? 
-Cost Analysis:What is the cost associated with different medical conditions and which age groups are most affected? 
-What are the most common medical conditions in different age groups, and how do they impact healthcare costs? 
-Can we accurately predict medical test results (Normal, Abnormal, Inconclusive) based on patient demographics, medical conditions and treatment data? 
-How does the cost of treatment vary by insurance provider, and what impact does this have on patient outcomes?
-Project Objective
-Project Title:Predictive Modelling of Medical Test Results Using Synthetic Healthcare Data 
+**Project Objective**
+
 To develop and evaluate a machine learning model to predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
 
+**Scope and Research Questions**
+
+Patient Demographics: 
+
+    - How do age, gender and blood type relate to different medical conditions?
+
+    - Cost Analysis: What is the cost associated with different medical conditions 
+    
+    - What are the most common medical conditions in different age groups, and how do they impact healthcare costs? 
+    
+    - Can we accurately predict medical test results (Normal, Abnormal, Inconclusive) based on patient demographics, medical conditions and treatment data? 
+    
+    - How does the cost of treatment vary by insurance provider, and what impact does this have on patient outcomes?
+
+    - Compare billing amounts across different medical conditions.
+
+    - How do medical conditions impact the period stay in the hospital
+  
+    
 **Data Source:**
+
 We sourced our data from kaggle. Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset 
 
-Note : We acknowledge the importance of healthcare data privacy and security and emphasise that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations (This data has been generated using Python's Faker library to mimic real healthcare records, enabling safe learning and experimentation in healthcare analytics.)
+**Data Ethics**
+
+We acknowledge the importance of healthcare data privacy and security and emphasise that this dataset is entirely synthetic. It does not contain any real patient information or violate any privacy regulations (This data has been generated using Python's Faker library to mimic real healthcare records, enabling safe learning and experimentation in healthcare analytics.)
 
 **Visualisation Types**
-Histograms; Bar charts, Pie charts to visualise the proportion of different admission types (Emergency, Elective, Urgent).
+
+Histograms, Bar charts, Pie charts to visualise the proportion of different admission types (Emergency, Elective, Urgent).
 Heatmaps to explore correlations between features like age, billing amount, and test results.
 Box plots to compare billing amounts across different medical conditions.
 Regression plots to analyse the relationship between variables such as age and billing amount, or between medical conditions and test results.
 Tools and Technologies
 Python
 
-**Pandas: For data cleaning,transforming and analysis.**
-Matplotlib: For creating visualisations like bar charts, pie charts, and heatmaps
-Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
-Jupyter Notebook: To interactively explore and analyse data
+  
+  **Python Pandas** For data cleaning,transforming and analysis
+  **PostreSQL** To store and extra data
+  **Data Visulaisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
+                         Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
+                         Jupyter Notebook: To interactively explore and analyse data
 
 **Expected Outcomes**
 Goal: To provide clear insights into how different features impact the prediction of medical test results.
