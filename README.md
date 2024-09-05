@@ -14,7 +14,7 @@ The aim of our project is to provide insights into trends, costs and outcomes wi
 
 ## Project Objective
 
-To develop and evaluate a machine learning model to predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
+To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic data. The project aims to improve understanding of predictive modelling in healthcare through data manipulation, feature engineering, and model training. Additionally, it will explore trends in patient demographics, cost analysis, and common conditions. By bridging data insights with practical healthcare applications, this project will provide valuable information for healthcare providers, policymakers, and patients, leading to better decision-making, optimised costs, and improved patient outcomes.
 
 **Scope and Research Questions**
 
