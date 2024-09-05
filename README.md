@@ -5,7 +5,7 @@ Healthcare
 
 The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
-**Project Title** Predictive Modelling of Medical Test Results Using Synthetic Healthcare Data 
+**Project Title** Data Visualisation track
 
 **Project Objective**
 
