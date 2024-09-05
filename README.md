@@ -1,6 +1,6 @@
-#Project-3-Group-2
+# Project-3-Group-2
 
-##Healthcare
+## Healthcare
 
 **A short project proposal**
 
