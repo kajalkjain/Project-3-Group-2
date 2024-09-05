@@ -67,4 +67,42 @@ https://media.licdn.com/dms/image/D5612AQE9qXxEJZB9Kg/article-cover_image-shrink
 ![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
 
 
+What is the distribution of medical conditions among different age groups?
+Visualization: Bar chart or pie chart.
 
+How do billing amounts vary across different medical conditions?
+Visualization: Box plot or bar chart.
+
+What are the proportions of different admission types (Emergency, Elective, Urgent)?
+Visualization: Pie chart or bar chart.
+
+How do test results (Normal, Abnormal, Inconclusive) vary by medical condition?
+Visualization: Heatmap or bar chart.
+
+What is the average billing amount for different insurance providers?
+Visualization: Bar chart.
+
+How does the length of hospital stay vary by medical condition?
+Visualization: Box plot or bar chart.
+
+What trends can be observed in test results over time?
+Visualization: Line plot.
+
+How do different blood types correlate with medical conditions?
+Visualization: Heatmap or stacked bar chart.
+
+What is the distribution of medication types across different medical conditions?
+Visualization: Bar chart or pie chart.
+
+How does the cost of treatment vary with different admission types?
+Visualization: Box plot or bar chart.
+What is the distribution of test results across different age groups?
+Visualization: Stacked bar chart or heatmap.
+How do billing amounts and test results relate to different admission types?
+Visualization: Scatter plot or box plot.
+What are the most common medical conditions per hospital?
+Visualization: Bar chart or heatmap.
+How do patient demographics (age, gender) influence the types of test results?
+Visualization: Heatmap or grouped bar chart.
+What is the frequency of different doctors treating specific medical conditions?
+Visualization: Bar chart or heatmap.
