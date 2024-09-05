@@ -18,50 +18,65 @@ To develop and evaluate a machine learning model to predict medical test results
 
 **Scope and Research Questions**
 
-What is the distribution of medical conditions among different age groups?
-    Visualization: Bar chart or pie chart.(Jess)
+- What is the distribution of medical conditions among different age groups?
 
-How do billing amounts vary across different medical conditions?
-    Visualization: Box plot or bar chart.(Napat)
+  Visualization: Bar chart or pie chart.(Jess)
 
-What are the proportions of different admission types (Emergency, Elective, Urgent)?
-    Visualization: Pie chart or bar chart.(Jess)
+- How do billing amounts vary across different medical conditions?
 
-How do test results (Normal, Abnormal, Inconclusive) vary by medical condition?
-    Visualization: Heatmap or bar chart.(Napat)
+  Visualization: Box plot or bar chart.(Napat)
 
-What is the average billing amount for different insurance providers?
-    Visualization: Bar chart.(Napat)
+- What are the proportions of different admission types (Emergency, Elective, Urgent)?
 
-How does the length of hospital stay vary by medical condition?
-    Visualization: Box plot or bar chart.(Kajal)
+  Visualization: Pie chart or bar chart.(Jess)
 
-What trends can be observed in test results over time?
-    Visualization: Line plot.(Jess)
+- How do test results (Normal, Abnormal, Inconclusive) vary by medical condition?
 
-How do different blood types correlate with medical conditions?
-    Visualization: Heatmap or stacked bar chart.(Kajal)
+  Visualization: Heatmap or bar chart.(Napat)
 
-What is the distribution of medication types across different medical conditions?
-    Visualization: Bar chart or pie chart.(Sima)
+- What is the average billing amount for different insurance providers?
 
-How does the cost of treatment vary with different admission types?
-    Visualization: Box plot or bar chart.(Sima)
+  Visualization: Bar chart.(Napat)
 
-What is the distribution of test results across different age groups?
-    Visualization: Stacked bar chart or heatmap.(Sima)
+- How does the length of hospital stay vary by medical condition?
 
-How do billing amounts and test results relate to different admission types?
-    Visualization: Scatter plot or box plot.(Kajal)
+  Visualization: Box plot or bar chart.(Kajal)
 
-What are the most common medical conditions per hospital?
-    Visualization: Bar chart or heatmap.(Kajal)
+- What trends can be observed in test results over time?
 
-How do patient demographics (age, gender) influence the types of test results?
-    Visualization: Heatmap or grouped bar chart. (Kajal)
+  Visualization: Line plot.(Jess)
 
-What is the frequency of different doctors treating specific medical conditions?
-    Visualization: Bar chart or heatmap. (Sima)
+- How do different blood types correlate with medical conditions?
+
+  Visualization: Heatmap or stacked bar chart.(Kajal)
+
+- What is the distribution of medication types across different medical conditions?
+
+  Visualization: Bar chart or pie chart.(Sima)
+
+- How does the cost of treatment vary with different admission types?
+
+  Visualization: Box plot or bar chart.(Sima)
+
+- What is the distribution of test results across different age groups?
+
+  Visualization: Stacked bar chart or heatmap.(Sima)
+
+- How do billing amounts and test results relate to different admission types?
+
+  Visualization: Scatter plot or box plot.(Kajal)
+
+- What are the most common medical conditions per hospital?
+
+  Visualization: Bar chart or heatmap.(Kajal)
+
+- How do patient demographics (age, gender) influence the types of test results?
+
+  Visualization: Heatmap or grouped bar chart. (Kajal)
+
+- What is the frequency of different doctors treating specific medical conditions?
+
+  Visualization: Bar chart or heatmap. (Sima)
     
 ## Data Source
 
