@@ -94,14 +94,13 @@ Box plots to compare billing amounts across different medical conditions.
 Regression plots to analyse the relationship between variables such as age and billing amount, or between medical conditions and test results.
 
 **Tools and Technologies**
-Python
 
   
   - **Python Pandas** For data cleaning,transforming and analysis
   
   - **PostgreSQL** To store and extra data(Napat gentle reminder to work on this)
   
-  - **Data Visulaisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
+  - **Data Visualisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
                          Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
                          Jupyter Notebook: To interactively explore and analyse data
 
