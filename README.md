@@ -2,15 +2,15 @@
 
 ## Healthcare
 
-**A short project proposal**
+**A Short Project Proposal**
 
-The aim of our project is to provide insights into trends, costs and outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
+The aim of our project is to provide insights into trends, costs and the outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
 
 ![image](https://github.com/user-attachments/assets/37a95756-a8c3-410f-b9b3-9311cfa85882)
 
 
 ## Project Title 
-**Data Visualisation track**
+**Data Visualisation Track**
 
 ## Project Objective
 
