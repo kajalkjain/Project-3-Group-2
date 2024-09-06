@@ -1,4 +1,4 @@
-AdmissionID,PatientID,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date
+AdmissionID,PatientID,Date_of_Admission,Doctor,Hospital,Insurance_Provider,Billing_Amount,Room_Number,Admission_Type,Discharge_Date
 1,1,2023-02-18,James Nelson,Griffin-Foster,Cigna,19092.692951053483,491,Elective,2023-03-14
 2,2,2020-09-04,Lisa Hess,"Walker Blake, And Hughes",Medicare,11346.545701319206,216,Urgent,2020-09-27
 3,3,2022-11-22,Nicholas Graves,Robles-Fisher,Aetna,37084.9863337801,257,Emergency,2022-12-15

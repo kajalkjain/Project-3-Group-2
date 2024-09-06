@@ -1,4 +1,4 @@
-PatientID,First_name,Last_name,Age,Gender,Blood Type,Medical Condition
+PatientID,First_name,Last_name,Age,Gender,Blood_Type,Medical_Condition
 1,Jon,Proctor,58,Female,A-,Diabetes
 2,Michelle,Roberts,28,Female,B-,Asthma
 3,Robert,Daniels Jr.,78,Male,A+,Arthritis
