@@ -1,0 +1,987 @@
+AdmissionID,PatientID,Date of Admission,Doctor,Hospital,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date
+1,1,2023-02-18,James Nelson,Griffin-Foster,Cigna,19092.692951053483,491,Elective,2023-03-14
+2,2,2020-09-04,Lisa Hess,"Walker Blake, And Hughes",Medicare,11346.545701319206,216,Urgent,2020-09-27
+3,3,2022-11-22,Nicholas Graves,Robles-Fisher,Aetna,37084.9863337801,257,Emergency,2022-12-15
+4,4,2021-05-25,Matthew Goodman,Nixon Sons And,Medicare,45310.63092208557,388,Emergency,2021-06-17
+5,5,2021-03-16,Eric Hudson,Curtis Plc,Cigna,36569.665155923,268,Emergency,2021-04-09
+6,6,2021-08-06,Tyler Green,Garcia Ltd,Blue Cross,3714.93058539448,304,Emergency,2021-08-24
+7,7,2023-06-26,Bobby Benjamin,Jones Sons And,Medicare,48365.58417458393,370,Elective,2023-07-26
+8,8,2021-12-03,Gwendolyn Davis,"Hernandez Foster, And Martin",Medicare,29193.38603887801,286,Emergency,2021-12-29
+9,9,2020-06-13,Mary Watkins,"Garcia Roberson Taylor, And",Blue Cross,32418.940388367668,246,Urgent,2020-07-07
+10,10,2020-06-30,Alison Rodriguez,Hart-Pena,Medicare,20453.50256247851,232,Elective,2020-07-18
+11,11,2019-07-17,Kristen Hicks,Sanders-Campbell,UnitedHealthcare,35500.575856888056,264,Elective,2019-08-13
+12,12,2022-02-27,James Miller,"Rhodes, And Thomas Spencer",UnitedHealthcare,13989.441131804737,224,Emergency,2022-03-11
+13,13,2022-11-01,Mike Walker,Parker-Franco,UnitedHealthcare,13991.556835637024,206,Elective,2022-11-19
+14,14,2024-02-24,Thomas Henry,Green-Garcia,Blue Cross,10277.158786544444,115,Elective,2024-03-01
+15,15,2019-06-19,Michelle Crawford,Good Plc,Blue Cross,49307.20584087245,450,Emergency,2019-07-03
+16,16,2021-07-07,Brandon Ball,Nunez-Dunn,UnitedHealthcare,3944.4857639876914,428,Elective,2021-07-22
+17,17,2021-02-21,Diane Arnold,Willis-Morrison,Cigna,46701.31451860943,152,Elective,2021-03-09
+18,18,2019-11-04,Tracy Smith,Plc Miller,Aetna,32808.28265656918,417,Elective,2019-12-01
+19,19,2023-04-23,Diana Jensen,Barrett-Johnson,Medicare,6524.597766018861,145,Emergency,2023-04-26
+20,20,2019-06-24,Andrew Shelton,"Williams, Anderson And Lane",Medicare,26143.87150965476,443,Elective,2019-07-08
+21,21,2021-09-09,Katrina Rogers,"Nelson And Young, Robles",UnitedHealthcare,11811.287396110947,322,Urgent,2021-10-06
+22,22,2020-11-17,Michelle Wright,"Donovan Wright And Gomez,",Aetna,21379.17426578508,236,Emergency,2020-12-11
+23,23,2020-07-11,Mario Norton,Sandoval-Perry,Cigna,15111.54122528277,200,Elective,2020-08-04
+24,24,2022-06-12,Marie Mason,Middleton-Miles,Cigna,38119.652783018384,118,Urgent,2022-06-29
+25,25,2020-03-22,Alexis Robinson,Meadows-Nichols,Aetna,19096.52915074968,234,Urgent,2020-03-26
+26,26,2022-08-08,Dennis Fox,Inc Moore,Aetna,21592.76065884713,421,Urgent,2022-08-24
+27,27,2021-02-14,Jose Martinez,"Brady Ward, Wallace And",Medicare,-824.2258772924683,399,Elective,2021-03-11
+28,28,2021-04-18,Tami Miller Dds,Dunn Plc,UnitedHealthcare,14315.501795932258,218,Elective,2021-05-02
+29,29,2020-03-11,Debra Hall,Plc Jackson,UnitedHealthcare,42543.17916952957,392,Elective,2020-03-23
+30,30,2020-02-18,Anthony Lopez,"And Reynolds, Barnes Martinez",UnitedHealthcare,10060.02109644967,189,Elective,2020-03-06
+31,31,2021-04-20,John Lambert,"And Perez Johnson, Foster",Medicare,44268.14587615184,283,Emergency,2021-05-12
+32,32,2021-11-21,Brooke Bell,"Jones, Mcintyre Sanchez And",Blue Cross,21290.78815883294,331,Elective,2021-12-11
+33,33,2023-03-01,Michael Brown,Inc Nguyen,Aetna,305.3335400133151,373,Elective,2023-03-10
+34,34,2019-11-07,Cheyenne Williams,Plc Brown,Cigna,44773.49236376601,313,Elective,2019-11-21
+35,35,2020-10-17,Lindsay Franklin,"Landry, Frye And Martin",Cigna,19826.301879299965,349,Urgent,2020-10-31
+36,36,2023-02-24,Michael Reid,Wilson-Murphy,Medicare,37552.29665681946,122,Emergency,2023-03-20
+37,37,2024-04-12,Susan Cummings,"Gutierrez, Powell And Nelson",Medicare,21918.30626394484,137,Elective,2024-05-03
+38,38,2021-05-20,Jesus Rogers,Page-Castillo,Cigna,43356.80709537096,174,Elective,2021-06-08
+39,39,2019-07-14,Jessica Simpson,Stafford-Anderson,Cigna,4081.128284814361,470,Urgent,2019-07-29
+40,40,2022-07-05,Aaron Garcia,Brown-Bell,Medicare,35305.65265246536,441,Elective,2022-07-07
+41,41,2020-06-07,William Doyle,Green-Montgomery,UnitedHealthcare,19334.47766966887,461,Urgent,2020-07-06
+42,42,2021-04-14,Jennifer Espinoza,"Dean And Mitchell, Jordan",Blue Cross,10588.036062934209,254,Elective,2021-05-03
+43,43,2021-07-12,Amanda Ramirez,Roberts-King,Medicare,-808.4650571113668,221,Emergency,2021-07-28
+44,44,2020-01-28,Jessica Brown,"And Houston, Mitchell Davenport",Medicare,34977.275882790615,176,Urgent,2020-02-03
+45,45,2020-10-06,Donna Everett,Gray-Jones,Cigna,3261.341501006851,326,Elective,2020-10-25
+46,46,2021-02-05,Andrea Copeland,Sons Bailey And,Medicare,33285.72247433063,126,Emergency,2021-03-02
+47,47,2023-09-15,Angela Barnes,Lee-Hansen,Cigna,2092.638365859559,338,Emergency,2023-09-17
+48,48,2022-07-18,Jeffrey Schmidt,"Olson, Andrade And Dixon",Medicare,33749.85876855787,112,Emergency,2022-08-07
+49,49,2023-10-10,Mr. Edward Cunningham Jr.,"And Mayo Thomas, Schneider",Cigna,28686.12882319314,212,Urgent,2023-11-09
+50,50,2020-08-04,Michael Phillips,Ltd Hernandez,UnitedHealthcare,18197.774335503847,435,Elective,2020-08-12
+51,51,2022-01-01,Jamie Potts,Inc Ferguson,Blue Cross,27166.50473360685,271,Emergency,2022-01-31
+52,52,2021-09-21,Michael Rice,"And Davis Moore Moore,",Medicare,42260.24908322124,197,Emergency,2021-10-01
+53,53,2023-10-17,Kimberly Campbell,Hayes-Jones,Blue Cross,28507.77175152314,105,Emergency,2023-10-26
+54,54,2019-06-17,Lisa Erickson,"And Spencer Graves Norris,",UnitedHealthcare,7230.89885445884,392,Elective,2019-07-15
+55,55,2023-10-20,Lindsay Williams,Gillespie Llc,UnitedHealthcare,39615.50650073444,173,Urgent,2023-11-09
+56,56,2021-06-03,Richard Harrell,"And Lopez Edwards, Robinson",Medicare,33679.2256818416,427,Urgent,2021-06-05
+57,57,2021-12-14,Mark Krueger,Morgan-Todd,Blue Cross,28636.555402825827,397,Elective,2021-12-26
+58,58,2020-04-21,Nathaniel Peck,"Jenkins, And Cisneros Fischer",UnitedHealthcare,16873.356599592018,373,Elective,2020-05-01
+59,59,2021-01-19,Eric Walls,Davis-Richardson,Blue Cross,41883.47051294911,419,Elective,2021-01-21
+60,60,2020-08-20,Ralph Lee,Robertson-Burch,Aetna,8637.993339550792,212,Emergency,2020-08-27
+61,61,2021-11-22,Lisa Williams,Church And Sons,Cigna,6309.667076098473,491,Urgent,2021-11-28
+62,62,2021-11-02,Gerald Chase,Smith Sons And,Medicare,19641.01270614908,142,Emergency,2021-11-04
+63,63,2020-09-17,Jeffrey Pennington,Hicks Group,Blue Cross,24254.128766913454,118,Urgent,2020-09-24
+64,64,2022-05-13,Brian Macdonald,"Kelly, Patterson And Lucas",Medicare,39570.180658097706,500,Urgent,2022-05-23
+65,65,2022-11-02,Dr. James Jones,And Coleman Sons,Medicare,29300.876998595333,444,Elective,2022-11-22
+66,66,2022-04-26,Antonio Wade,Group Cross,Blue Cross,4790.855172918646,159,Emergency,2022-05-04
+67,67,2019-06-15,Jennifer Reynolds,Lynch And Sons,Cigna,44400.00010125794,152,Urgent,2019-06-22
+68,68,2023-01-01,Maria Dougherty,Cline-Williams,Blue Cross,12263.357425021362,465,Elective,2023-01-11
+69,69,2021-10-17,Nicole Munoz,Moore-Long,UnitedHealthcare,3385.61138711834,420,Emergency,2021-10-30
+70,70,2023-11-21,Johnny Bryan,Reyes-Warren,Blue Cross,40461.1705600222,223,Elective,2023-12-19
+71,71,2024-04-09,Clifford Martinez,Austin-Taylor,Aetna,13028.17331146828,349,Emergency,2024-04-18
+72,72,2024-03-31,Lucas Davis,Eaton-Grimes,Medicare,19489.39441272267,349,Elective,2024-04-27
+73,73,2023-03-30,Jose Zuniga,"And Chen Martinez Williams,",UnitedHealthcare,30232.24765124526,470,Elective,2023-04-24
+74,74,2021-01-06,Kylie Gonzalez,"Knox, And Martin Robbins",Blue Cross,33012.35851486273,380,Elective,2021-01-09
+75,75,2019-06-14,Richard Martin,Willis-Dixon,Cigna,24947.58793761651,278,Elective,2019-07-07
+76,76,2023-07-20,Norma Scott,"Taylor, Johnson Green And",Medicare,11171.05960930416,399,Elective,2023-07-30
+77,77,2023-07-27,Alexander Preston,Barton-Johnson,Blue Cross,14150.51155385212,406,Elective,2023-08-19
+78,78,2021-12-10,Brian Torres,Stone-Green,Cigna,48751.59622661959,219,Emergency,2021-12-30
+79,79,2024-01-31,Jennifer Levy,Taylor-Hernandez,Aetna,39177.34271674089,239,Urgent,2024-02-08
+80,80,2020-08-10,Crystal Rivera,"And Dunn, Thompson Vaughan",UnitedHealthcare,29744.172055324,193,Elective,2020-08-15
+81,81,2020-09-12,Michelle Cantrell,"Watson Burgess Williams, And",Cigna,44386.79777188916,493,Emergency,2020-09-13
+82,82,2020-12-14,Victoria Collins,"Cherry Rich, Jackson And",Blue Cross,44079.328569137295,223,Emergency,2020-12-20
+83,83,2020-04-06,Jacob Black,Becker-Cummings,UnitedHealthcare,46782.32031289717,285,Elective,2020-04-27
+84,84,2022-01-09,John Le,Clark Plc,UnitedHealthcare,39261.860600947984,341,Emergency,2022-01-10
+85,85,2020-09-16,Garrett Dunn Phd,"Watson Clark Pace, And",Medicare,13760.783495755062,320,Urgent,2020-10-08
+86,86,2020-05-27,Eric Hernandez,Lane Group,Aetna,35968.442835563015,209,Elective,2020-05-30
+87,87,2020-09-30,Christine Walters,Davis-Gay,Aetna,43423.69767319827,417,Urgent,2020-10-24
+88,88,2022-03-20,Alexander Dunn,"Lee, Neal Rocha And",Medicare,13684.22658028471,282,Urgent,2022-03-28
+89,89,2022-05-26,Jamie Mccullough,"Aguilar, Schwartz And Molina",Cigna,34764.3673597801,454,Elective,2022-06-02
+90,90,2020-06-01,William Brown,Duffy-Boyd,Blue Cross,13663.866484352007,117,Urgent,2020-06-19
+91,91,2023-05-17,Randy Jackson,Moran Ltd,Cigna,10063.58756485452,274,Emergency,2023-06-02
+92,92,2023-06-12,Zachary Bush,Ltd Harris,Medicare,33703.54730094963,476,Urgent,2023-07-10
+93,93,2021-08-03,Steven Peters,Peters-Bell,UnitedHealthcare,17765.901484007223,496,Elective,2021-08-30
+94,94,2021-01-02,Theodore Tate,Lyons Inc,Aetna,44703.17417869932,335,Urgent,2021-01-12
+95,95,2023-08-25,Annette Rush,"And Goodman Diaz Thomas,",Medicare,46647.74242050289,439,Elective,2023-08-27
+96,96,2019-09-20,Heidi Mullen,Lynn Llc,Cigna,28452.02955940281,216,Urgent,2019-10-18
+97,97,2020-10-25,Andrew Boyle,"Bell King And Williams,",Cigna,33143.71508819352,168,Emergency,2020-11-12
+98,98,2022-06-22,Bailey Gonzalez,"Rivas, Mcconnell Hill And",UnitedHealthcare,34719.17385017646,317,Elective,2022-07-20
+99,99,2020-05-09,Kimberly Bender Dds,"And Phillips Wells, Williamson",Cigna,42761.45328609172,338,Urgent,2020-05-26
+100,100,2021-11-10,Peter Perry,Group Mullins,Blue Cross,36947.51932738516,282,Elective,2021-12-02
+101,101,2020-09-06,Diana Brown,"And Mclaughlin Johnson Baker,",UnitedHealthcare,12292.465968557868,479,Emergency,2020-09-27
+102,102,2021-01-25,Bradley Krueger,Banks Llc,UnitedHealthcare,20283.513702581484,236,Urgent,2021-02-23
+103,103,2024-05-04,Mitchell Lopez,Hamilton-Bradley,Medicare,21544.367397173064,466,Elective,2024-05-18
+104,104,2022-06-11,Elizabeth Schroeder,Gutierrez-Rasmussen,UnitedHealthcare,16895.699015678052,496,Emergency,2022-06-15
+105,105,2022-05-20,David Jones,"And Reid Keith, Blackwell",Aetna,23703.51887587285,474,Emergency,2022-05-29
+106,106,2021-12-25,Justin Young,"And Lee, Diaz Lewis",UnitedHealthcare,39930.51292075662,333,Elective,2022-01-04
+107,107,2022-02-23,Tricia Hill,Cameron Plc,Aetna,4874.475271216772,443,Emergency,2022-03-18
+108,108,2022-06-29,Casey Davis,"And Lopez Moore Evans,",Cigna,45282.93896034506,175,Urgent,2022-07-21
+109,109,2022-11-11,Stacy Stevens,"And Estrada, Carney Saunders",UnitedHealthcare,8990.800636866494,177,Emergency,2022-11-13
+110,110,2019-10-27,Melissa Lewis,Riley-Spencer,Medicare,724.699576408022,165,Elective,2019-10-29
+111,111,2020-05-09,Christopher Suarez,Pierce-Ellis,Cigna,28182.81178522409,369,Emergency,2020-06-03
+112,112,2021-05-24,Warren Adams,Ltd Reyes,Medicare,6463.353314274379,155,Emergency,2021-06-22
+113,113,2023-12-13,John Gibson,Phillips Inc,Cigna,45795.295338262105,445,Emergency,2024-01-09
+114,114,2022-03-28,Corey Yoder,"Hall And Freeman, Jackson",Medicare,6866.65649272774,327,Elective,2022-04-22
+115,115,2021-04-04,Erik Stewart,Mccormick-Marshall,Medicare,41335.69403061563,316,Elective,2021-04-08
+116,116,2022-07-09,Robert Torres,Inc Miller,Blue Cross,25889.100147628724,445,Elective,2022-07-11
+117,117,2022-06-26,Robin Bradshaw,And Booth Sons,Cigna,22843.970290437457,346,Elective,2022-07-12
+118,118,2020-02-10,Randy Nguyen,Silva Llc,Aetna,32498.253157336894,196,Emergency,2020-03-05
+119,119,2022-03-14,Christopher Howe,Inc Nelson,Cigna,48416.20335783149,323,Urgent,2022-04-13
+120,120,2020-11-12,Ralph Lopez,"Miles, And Johnson Johnson",Aetna,44904.166334417925,311,Elective,2020-11-15
+121,121,2022-09-10,Stephanie Walsh,Simon-Hunt,Medicare,2016.351885051964,224,Emergency,2022-09-23
+122,122,2020-12-19,Lawrence Spence,Lindsey Llc,Cigna,21715.52146839961,131,Urgent,2021-01-03
+123,123,2024-01-11,David Roach,Ltd Griffin,Medicare,15346.199667205256,457,Elective,2024-01-27
+124,124,2020-01-17,John Butler,"Casey, Payne And Rodgers",UnitedHealthcare,13265.734955024762,174,Elective,2020-02-07
+125,125,2020-05-02,Joseph Manning,Cox-Miller,Cigna,18137.3896998528,375,Emergency,2020-05-09
+126,126,2022-09-30,Frank Sanford,Williams-Potter,Cigna,44356.81820475384,324,Elective,2022-10-06
+127,127,2020-02-27,Joshua Meyer,"And Shields Williams, James",UnitedHealthcare,49241.690582777286,399,Elective,2020-03-16
+128,128,2019-08-14,Christopher Baker,Clark Plc,Blue Cross,4267.188003880478,459,Elective,2019-09-01
+129,129,2021-07-03,Lisa Walter,Group Mcintosh,Medicare,27329.86860993141,336,Emergency,2021-07-25
+130,130,2023-07-29,Antonio Cruz,Brown-Hanson,Medicare,25497.376556441104,453,Elective,2023-08-08
+131,131,2021-01-23,Ronald Gray,"Johnson Mcfarland And Long,",Blue Cross,13707.45008494709,217,Emergency,2021-02-17
+132,132,2019-09-17,Laura Martin,Moore-Shepard,Medicare,15490.422669738671,115,Urgent,2019-10-17
+133,133,2024-01-28,Gabriela Rodriguez,"Nelson, Horton Burgess And",Cigna,3206.7123513498564,272,Emergency,2024-02-09
+134,134,2022-11-07,Ashley Williams,Sons Perry And,Aetna,16836.825334216217,143,Urgent,2022-11-28
+135,135,2022-09-07,Michael Ramirez,"Reed Hopkins Bell, And",UnitedHealthcare,30487.8986770911,392,Urgent,2022-09-08
+136,136,2019-10-05,Shannon Riley,Dixon-Perez,Aetna,26798.457484463663,126,Emergency,2019-10-31
+137,137,2020-01-04,Patrick Frost,Stevenson-Lawrence,Cigna,7805.268171423308,483,Emergency,2020-01-15
+138,138,2020-10-03,Tony Combs,Llc Henderson,Medicare,49110.12538714857,489,Urgent,2020-10-20
+139,139,2022-05-24,Paul Parsons,Llc Hebert,Cigna,37106.1370562986,464,Urgent,2022-06-07
+140,140,2020-05-15,Charles Torres,Bowman-Keith,UnitedHealthcare,25163.822483831256,142,Elective,2020-06-10
+141,141,2019-07-01,Sheila Munoz,"And Hood, Snyder Price",Cigna,32181.141268985368,264,Emergency,2019-07-24
+142,142,2019-07-28,Michael Lopez,"And Smith Wheeler, Stafford",Blue Cross,44028.96366935238,434,Elective,2019-07-29
+143,143,2023-09-12,Derek Collins,Inc Vang,Blue Cross,25910.19447426626,102,Elective,2023-09-15
+144,144,2020-10-26,Kelly Lopez,"Miller, Smith Whitaker And",UnitedHealthcare,41920.70239897913,492,Emergency,2020-11-17
+145,145,2024-03-26,Casey Davis,Martinez-Gutierrez,Medicare,47722.60033667755,415,Emergency,2024-04-13
+146,146,2019-12-16,Brandon Johnson,Parker-Lopez,UnitedHealthcare,13464.06917334676,407,Urgent,2020-01-02
+147,147,2019-06-23,Michael Frazier,"Parks Fields, And Evans",Medicare,41326.59055661912,309,Urgent,2019-07-17
+148,148,2021-06-08,Brenda Harris,"Davis Burnett And Carlson,",UnitedHealthcare,46317.89230821368,301,Urgent,2021-07-03
+149,149,2020-01-25,Rebecca Jimenez,Johnson-Lopez,Blue Cross,24931.31918263766,360,Emergency,2020-02-21
+150,150,2022-02-13,Carl Cohen,Ltd Sellers,Blue Cross,35836.08832646065,449,Elective,2022-02-17
+151,151,2023-01-11,Jimmy Wise,"And Baldwin Lopez, Stewart",UnitedHealthcare,42425.92976097263,294,Emergency,2023-02-09
+152,152,2022-10-19,Patrick Shelton,Hancock And Sons,Blue Cross,38481.70908785237,448,Elective,2022-10-29
+153,153,2023-08-10,Sheila Brennan,"Moody, And Moore Weber",Aetna,36830.67873393262,471,Emergency,2023-08-16
+154,154,2022-12-20,Brian Davidson,Robbins-Henry,Cigna,1104.209804476086,342,Emergency,2023-01-03
+155,155,2020-02-11,Sarah Hart,"And Webster, Martinez Wolfe",Medicare,13574.442648678529,175,Urgent,2020-02-20
+156,156,2021-11-13,Nancy Mcbride,Smith-Miller,Aetna,47678.35678602784,144,Elective,2021-11-23
+157,157,2020-06-03,Joshua Gill,Llc Miller,Blue Cross,20402.05234961675,414,Elective,2020-06-05
+158,158,2020-04-16,Ebony Parker,Horn-Alexander,Cigna,47565.007024631945,461,Emergency,2020-04-27
+159,159,2021-05-20,Jennifer Morrow,Anderson-Davis,UnitedHealthcare,45720.2397771698,233,Emergency,2021-06-04
+160,160,2022-11-24,Joseph Cortez,Hull-Barnett,Cigna,35283.194695852624,256,Elective,2022-12-21
+161,161,2023-11-20,Julia Diaz,Young-Wilson,Blue Cross,6863.22031659706,154,Elective,2023-12-06
+162,162,2022-03-06,Cynthia Webster,Yates Ltd,Cigna,46911.42975951984,461,Elective,2022-03-21
+163,163,2020-02-28,Karen Lee,Plc Blackburn,Aetna,13839.183880637,323,Elective,2020-03-29
+164,164,2019-12-22,Donald Allen,Inc Drake,UnitedHealthcare,14095.131501696476,269,Emergency,2020-01-20
+165,165,2022-12-31,Heather Drake,Johnson Group,Blue Cross,35054.4962311879,187,Urgent,2023-01-29
+166,166,2023-03-07,Sarah Burns,"Williams Martin Frazier, And",Aetna,39234.81091843826,344,Emergency,2023-03-13
+167,167,2021-11-02,Paige Clark,"Mann, Burton King And",Blue Cross,37012.04589364616,321,Elective,2021-12-02
+168,168,2023-10-17,Angel Ortiz,Martin-Peck,UnitedHealthcare,40871.03274881834,410,Elective,2023-11-11
+169,169,2023-11-10,Donna Harvey,"Potts, Hunt And Levine",Cigna,31240.57082352993,160,Elective,2023-12-05
+170,170,2019-12-03,Anthony White,Ltd Evans,UnitedHealthcare,7551.992732793325,478,Emergency,2019-12-10
+171,171,2023-01-22,Christina Farmer,Delacruz Group,Aetna,8568.50855768839,471,Elective,2023-01-25
+172,172,2022-12-17,Cheryl Munoz,Plc Williams,Cigna,43073.2251772461,191,Urgent,2022-12-31
+173,173,2022-03-10,Justin Moore,Llc Freeman,Aetna,44802.30437670584,415,Elective,2022-03-26
+174,174,2022-05-09,Rebecca Willis Dvm,"Pena Barker, Rose And",Cigna,29472.26827115492,235,Urgent,2022-05-10
+175,175,2023-06-28,Krista Smith,Jones Llc,Blue Cross,42.5145885533243,115,Elective,2023-07-02
+176,176,2024-01-27,Sheila Bowers,Stone Ltd,Medicare,40006.51562548683,129,Urgent,2024-02-02
+177,177,2021-04-28,Melissa Mckay,"Huff, And Green Phillips",UnitedHealthcare,29579.957137304384,352,Emergency,2021-05-02
+178,178,2020-07-07,Grant Jackson,"Gonzalez And Brock, Lambert",Blue Cross,21776.639373130063,426,Urgent,2020-07-18
+179,179,2020-04-19,Joshua Alvarez,Ford-Olson,UnitedHealthcare,46596.86810659713,297,Elective,2020-04-27
+180,180,2020-07-26,Eric Garcia,"Velazquez Prince And Fitzgerald,",Cigna,19354.15480099985,187,Urgent,2020-08-09
+181,181,2023-07-11,Cassandra Carroll,"Cole Dawson And King,",UnitedHealthcare,24668.502180131232,441,Emergency,2023-07-25
+182,182,2023-08-30,Diana Navarro,Inc Kirk,Cigna,20836.54430007003,164,Urgent,2023-09-23
+183,183,2022-03-22,Catherine Espinoza,Alexander-Nichols,UnitedHealthcare,14076.60265811342,221,Emergency,2022-04-17
+184,184,2021-10-11,Shawn Rubio,Estrada-Schneider,UnitedHealthcare,5721.966199125129,393,Elective,2021-10-25
+185,185,2023-11-21,Michelle Warren Dvm,Contreras-Sanchez,Aetna,21241.558746709397,118,Emergency,2023-12-07
+186,186,2022-08-30,Sarah Wilson,Plc Davidson,Aetna,31209.639429897805,240,Emergency,2022-09-26
+187,187,2023-09-18,Mark Caldwell,Wright-White,Medicare,37187.07791313827,397,Elective,2023-10-09
+188,188,2019-09-02,Lauren Hogan,Fernandez Llc,UnitedHealthcare,14880.59812720014,164,Emergency,2019-09-25
+189,189,2023-01-14,Deborah Lowe,Ltd Morgan,UnitedHealthcare,11825.821999511614,299,Urgent,2023-02-09
+190,190,2020-07-27,David Foster,"White And Foley, Bryant",Blue Cross,31398.89393849287,446,Emergency,2020-08-21
+191,191,2022-11-11,Hannah Castillo,Jones-Jones,UnitedHealthcare,37743.09899788456,259,Emergency,2022-11-17
+192,192,2020-05-15,Annette Pace,Johnston-Lawrence,Cigna,50576.94275247496,496,Elective,2020-06-05
+193,193,2020-10-17,Rodney Wise Jr.,Powers Group,Aetna,1216.9612472237818,289,Urgent,2020-11-12
+194,194,2020-03-02,James Oliver,"Ramirez And James, Suarez",Cigna,46552.17626141464,193,Emergency,2020-03-11
+195,195,2023-10-10,John Rosales,Sons And Johnston,Blue Cross,9188.403444206013,378,Emergency,2023-11-02
+196,196,2023-07-15,Jane Campbell,Kim-Stewart,UnitedHealthcare,42401.9472289901,346,Emergency,2023-08-09
+197,197,2021-08-03,Kenneth Jackson,"Floyd, And Johnson Miller",Aetna,22579.839968191296,169,Urgent,2021-08-27
+198,198,2020-11-23,William Hall,Lee Group,Medicare,34933.41363026416,393,Urgent,2020-11-30
+199,199,2021-07-24,Tabitha Mccall,"Lawrence Solis Peters, And",UnitedHealthcare,22717.48778338497,289,Elective,2021-08-09
+200,200,2019-12-03,Stephanie Casey,"Torres, Green Orozco And",Blue Cross,34051.270652541345,448,Emergency,2019-12-10
+201,201,2023-11-21,Colleen Sanders,Burton-Duncan,Cigna,16110.45647512114,189,Emergency,2023-12-07
+202,202,2024-03-31,Melissa Reyes,Plc Adams,UnitedHealthcare,11090.343559121444,307,Emergency,2024-04-05
+203,203,2022-08-24,Taylor Davis,"Randall And Cox Garcia,",Aetna,46213.67099105658,151,Elective,2022-09-10
+204,204,2021-05-03,Catherine Joseph,Smith-Miller,Medicare,34830.843589439086,220,Elective,2021-05-17
+205,205,2021-01-30,Steven Lewis Md,"Butler Hull, And Jackson",Aetna,23110.705038831,161,Emergency,2021-02-03
+206,206,2021-12-23,Diane Cummings,Arroyo-Ingram,Blue Cross,11840.482838057336,186,Urgent,2021-12-25
+207,207,2020-07-20,Kevin Pham,"Higgins, Wong And Turner",Aetna,26105.76947446749,262,Emergency,2020-08-19
+208,208,2023-12-11,Jesus Jordan,Miller-Harris,Medicare,42535.30123416511,378,Emergency,2024-01-04
+209,209,2019-12-07,Randy Smith,Ltd Tran,Medicare,33929.53283931851,114,Urgent,2020-01-05
+210,210,2021-08-24,Tonya Key,Mcintyre-Hill,Blue Cross,12784.46575960753,231,Emergency,2021-09-16
+211,211,2022-08-02,Donald Young Dds,Farley Plc,Aetna,5633.305177993241,312,Emergency,2022-08-26
+212,212,2021-03-02,Bonnie Lang,"Russell, And Garcia Potter",Medicare,27967.014229537177,165,Emergency,2021-03-19
+213,213,2024-02-09,Kenneth Kelley,Oliver Llc,Aetna,6017.078396373386,462,Emergency,2024-02-28
+214,214,2022-12-28,Donald Combs,Beard-Oconnor,Cigna,28599.755954224565,395,Elective,2023-01-23
+215,215,2019-08-05,Gary Wilson,Dawson Group,Aetna,43253.5082776127,219,Elective,2019-09-02
+216,216,2021-01-15,Joyce Hayes,Plc Rodriguez,Cigna,22490.443614569427,399,Elective,2021-01-22
+217,217,2022-07-01,Kimberly Kelley Dds,Townsend-Martinez,Cigna,40132.30103404843,449,Urgent,2022-07-03
+218,218,2021-05-24,Kathryn Harvey,Fitzpatrick-Gentry,Cigna,30514.751859872253,336,Emergency,2021-06-21
+219,219,2019-08-27,Gregory Malone,"Morse, Fuentes And Freeman",Medicare,23594.37158481683,320,Urgent,2019-09-11
+220,220,2021-06-21,Robert Rush,"And Jackson, Raymond Valdez",Blue Cross,37410.02960864135,411,Emergency,2021-07-20
+221,221,2020-01-17,Matthew Smith,Walker-Martin,Cigna,35266.86759105349,305,Elective,2020-01-27
+222,222,2019-09-03,Monica Butler,Cross-Cisneros,UnitedHealthcare,39228.611071684565,484,Emergency,2019-09-19
+223,223,2024-02-26,Robert Washington,"Odom, Griffith And Scott",UnitedHealthcare,31931.13141534207,128,Elective,2024-03-01
+224,224,2020-03-25,Jeremy Stevens,Randall-Meza,UnitedHealthcare,16867.79363394858,216,Urgent,2020-04-09
+225,225,2022-03-03,James Bailey,Group Salazar,UnitedHealthcare,43354.70661623876,355,Elective,2022-03-05
+226,226,2024-03-27,Justin Cain,"And Huynh, Barron Orr",Aetna,46334.77830798844,462,Emergency,2024-04-13
+227,227,2022-10-19,Nichole Carroll,Garcia-Adkins,Aetna,47902.5854916688,224,Emergency,2022-10-30
+228,228,2019-07-06,Erica Hall,Group Fields,Cigna,42524.28837524396,184,Elective,2019-07-18
+229,229,2022-03-01,Devin Wright,English-Bruce,Aetna,48550.257849529386,277,Elective,2022-03-30
+230,230,2022-12-16,David Harris,Johnson Inc,UnitedHealthcare,45898.33438535757,464,Elective,2023-01-12
+231,231,2021-12-03,Ian Baker,Llc Robinson,Medicare,47128.14193944006,153,Elective,2021-12-25
+232,232,2022-01-08,David Frost,Gutierrez Inc,Blue Cross,2488.595126468337,176,Elective,2022-01-17
+233,233,2021-02-25,Tamara Doyle,"Nelson And Davis, Sutton",Medicare,39587.57190436733,147,Urgent,2021-02-27
+234,234,2020-08-03,Christian Mcpherson,"And Herrera, Cox Higgins",Medicare,18877.613617476927,166,Emergency,2020-08-10
+235,235,2023-07-11,Marie Roberson,Llc Hansen,Cigna,9399.353003289816,193,Emergency,2023-07-25
+236,236,2024-01-07,Joshua Palmer,Fisher-Rogers,Blue Cross,30849.15108932428,279,Urgent,2024-01-08
+237,237,2022-04-15,Robin Chavez,Llc Larson,Aetna,45133.36040658001,450,Urgent,2022-05-07
+238,238,2020-12-16,Christopher Ross,Johnson-Heath,Cigna,43723.902338633976,124,Emergency,2021-01-12
+239,239,2021-07-06,Sarah Perkins,"Williams Reed, And Smith",Aetna,15826.138504553506,243,Elective,2021-07-16
+240,240,2021-12-12,Kathleen Howard,Ltd Washington,Cigna,9770.315738007175,280,Elective,2021-12-21
+241,241,2023-04-21,Danielle Hernandez,Gross-Reed,Cigna,27831.157695252605,475,Elective,2023-05-05
+242,242,2022-01-22,Monique Hooper,Williams-Lopez,Medicare,48939.923379568805,454,Emergency,2022-02-06
+243,243,2023-05-10,Austin Wright,Rodriguez Inc,Medicare,48094.147433218975,275,Elective,2023-05-22
+244,244,2021-05-10,Joel Olsen,Llc Davis,UnitedHealthcare,2080.927871510497,415,Urgent,2021-05-15
+245,245,2022-08-07,Kenneth Adams,"Romero Dyer, Jackson And",Cigna,47477.04196649961,314,Emergency,2022-08-26
+246,246,2021-01-10,Brian Dawson,Thomas-Braun,UnitedHealthcare,30718.014519027136,122,Urgent,2021-01-14
+247,247,2020-03-15,Brianna Rodriguez,"And Hernandez, Smith Wiley",Aetna,4654.328614134854,137,Elective,2020-03-25
+248,248,2023-11-19,Teresa Haynes Dvm,Fisher-Rodriguez,Blue Cross,14890.431061392588,308,Urgent,2023-12-09
+249,249,2019-08-12,Brian Erickson,"Elliott Silva, And Cole",UnitedHealthcare,41372.49657725225,256,Emergency,2019-08-30
+250,250,2022-06-02,Susan Sexton,Ltd Ward,Blue Cross,4663.524967253669,284,Urgent,2022-06-23
+251,251,2020-11-26,Heidi Daniels,Burns Inc,UnitedHealthcare,36325.72605925804,431,Urgent,2020-12-24
+252,252,2021-03-02,Nancy Brooks,Williams-Krueger,Medicare,45660.264871551706,379,Urgent,2021-03-28
+253,253,2020-09-11,Crystal Perez,"Cox Gutierrez, And Hamilton",Medicare,19312.63089524873,190,Elective,2020-09-26
+254,254,2022-05-30,Abigail Williams,Mendez-Montoya,UnitedHealthcare,17689.147413265462,286,Emergency,2022-06-24
+255,255,2021-06-01,Ashley Guerrero,"Singh Shannon, Patrick And",Blue Cross,13808.52681333387,120,Elective,2021-06-07
+256,256,2023-03-01,Janice Moore,Wood-Hall,Cigna,26296.25027508486,314,Urgent,2023-03-14
+257,257,2023-07-11,Sarah Bowen,Pope Group,Blue Cross,24039.919280704034,485,Urgent,2023-08-10
+258,258,2021-06-05,Jennifer Hernandez,"And Davis Maxwell, Edwards",Cigna,34650.422939490745,158,Elective,2021-06-25
+259,259,2023-02-17,Monica Lopez,"Gillespie And Cook Hancock,",Cigna,6160.023738859544,315,Elective,2023-02-21
+260,260,2021-12-25,Crystal Jones,Young-Anderson,Aetna,44119.23053267186,131,Elective,2022-01-23
+261,261,2019-08-11,Jack Gillespie Md,Green-Smith,Aetna,34541.343408429704,366,Elective,2019-08-20
+262,262,2023-08-22,Tiffany Barrett Md,Miller-Robbins,UnitedHealthcare,25454.44583139797,476,Elective,2023-09-06
+263,263,2022-03-11,James Obrien,Ltd Massey,Medicare,16665.58928742085,293,Urgent,2022-04-02
+264,264,2023-02-15,Erik Clay,Macias-Martin,Blue Cross,5356.97167197909,144,Urgent,2023-02-20
+265,265,2022-12-24,Kayla Jensen,Bowman Plc,Aetna,47386.413190146726,177,Urgent,2023-01-06
+266,266,2023-09-24,Joshua Green,Arellano-Rivera,Aetna,46930.91391639732,447,Elective,2023-09-27
+267,267,2021-07-05,David Johnson,"Little Moore, Ellis And",Cigna,32667.246523797825,415,Emergency,2021-07-15
+268,268,2020-05-15,Hannah Shepard,"Diaz Brown And Jones,",Blue Cross,31383.621510898654,447,Elective,2020-06-03
+269,269,2023-08-07,Joan Washington,"And Foster, Allen Valdez",Cigna,18416.9287542296,361,Urgent,2023-08-19
+270,270,2022-06-11,Mark Weber,Wilkins Llc,UnitedHealthcare,19085.63329590144,131,Urgent,2022-06-23
+271,271,2022-06-04,Christine Thomas,"Johnson Clarke, And Quinn",Aetna,27653.64551447436,385,Urgent,2022-06-15
+272,272,2020-08-08,Jacob Garrett,"And Simmons Gonzalez Martin,",Aetna,5490.80683966612,349,Elective,2020-08-25
+273,273,2023-09-03,Caleb Ingram,Llc Johnson,Aetna,41397.6729733119,246,Emergency,2023-09-28
+274,274,2021-01-29,Lawrence Grant,Phillips-Andrade,Medicare,25840.12040338589,491,Urgent,2021-02-16
+275,275,2023-04-25,Morgan Wood,Marshall Group,Cigna,49789.41212286746,225,Elective,2023-05-17
+276,276,2023-12-22,Rebecca Davis,Ray Inc,Cigna,23436.35850771452,440,Elective,2023-12-26
+277,277,2022-04-26,Mr. Jeffery Smith,Gutierrez-Solis,Blue Cross,4673.326314091025,135,Emergency,2022-05-25
+278,278,2022-10-10,Edward Potts,"Molina, And Gilbert Branch",UnitedHealthcare,6637.150818449728,113,Urgent,2022-11-08
+279,279,2022-04-18,James Santiago,And Sons Perkins,Medicare,24653.14810543831,357,Elective,2022-04-25
+280,280,2022-07-24,Timothy Riddle,"And Cochran Crawford, Best",Cigna,32331.11556810225,432,Elective,2022-08-15
+281,281,2022-07-28,William Sandoval,Harris-Rodriguez,UnitedHealthcare,4122.012117511771,487,Emergency,2022-08-22
+282,282,2021-05-03,Charles Hill,"And Shepard Ramos, Saunders",Cigna,36680.22642447545,279,Urgent,2021-05-19
+283,283,2023-11-24,Angela Hood,"Gill And Hanson Barrett,",Aetna,18933.17764918541,337,Elective,2023-12-24
+284,284,2021-01-21,Carla Cole,Sons Gomez And,Medicare,17800.065194587994,346,Emergency,2021-01-27
+285,285,2022-09-02,Adam Gates,Ltd Thompson,Aetna,32371.62407028956,460,Urgent,2022-09-07
+286,286,2024-04-19,Sheila Rodriguez,Cuevas-Cruz,Blue Cross,18841.09021992014,135,Emergency,2024-05-07
+287,287,2019-09-29,Tony Goodman,Mclean Llc,Medicare,13001.41273457425,388,Emergency,2019-10-19
+288,288,2019-09-27,Brittany Howard,"Reyes Edwards, Mullen And",Medicare,2765.832719323722,377,Urgent,2019-10-05
+289,289,2023-08-18,Raymond Graham,Frank-Huang,Medicare,41562.22581234961,351,Urgent,2023-08-22
+290,290,2024-02-21,Carlos Ramos,Guzman Ltd,Aetna,34402.32243630504,425,Elective,2024-03-22
+291,291,2020-07-14,James Collins,"And Glenn Williams Shannon,",Aetna,14581.894074867816,414,Urgent,2020-07-19
+292,292,2020-04-05,Randy Booth,Llc Cole,UnitedHealthcare,3891.153470807848,279,Elective,2020-05-05
+293,293,2020-06-29,Joseph Goodwin,"Garcia, Ross Simpson And",UnitedHealthcare,2621.381595783344,151,Emergency,2020-06-30
+294,294,2023-02-26,Donna Gonzalez,Whitehead Ltd,UnitedHealthcare,15850.894849349464,482,Emergency,2023-03-03
+295,295,2024-01-29,William Contreras,"Randolph Yates, And White",Blue Cross,20090.20153591724,122,Elective,2024-02-02
+296,296,2022-04-19,Seth Hill,"Martinez Johnson And Hayes,",Aetna,47032.17117734106,404,Emergency,2022-05-03
+297,297,2022-01-05,Jennifer Werner,Smith Llc,Medicare,1623.0021376333837,112,Emergency,2022-01-09
+298,298,2023-07-20,Brian Brooks,"Roy Reid Peters, And",Cigna,299.71615615425776,408,Elective,2023-07-27
+299,299,2022-01-30,Mr. Ryan Young,Ltd Parsons,Medicare,16208.948523188124,111,Emergency,2022-02-25
+300,300,2020-02-14,Paul Ray,Group Wiggins,Blue Cross,37893.24331765443,155,Urgent,2020-02-23
+301,301,2021-09-08,Benjamin Hampton,"And Mann Turner, Goodman",UnitedHealthcare,17406.74963409023,388,Urgent,2021-09-22
+302,302,2022-07-07,Erica Thomas,Inc Rodriguez,Cigna,36265.18758260991,300,Urgent,2022-07-14
+303,303,2020-10-05,Tiffany Acosta,"Arnold, Porter Gordon And",Cigna,12847.738936498195,135,Elective,2020-10-19
+304,304,2021-03-16,George Smith,Hunt-Anderson,Blue Cross,25661.87282420776,104,Emergency,2021-04-08
+305,305,2022-11-01,Shane Gordon,Fuller-Clark,Medicare,33532.67731111368,259,Emergency,2022-12-01
+306,306,2021-06-25,Benjamin Porter,"Smith Henderson, And Ramirez",Aetna,10948.761077672909,481,Emergency,2021-07-08
+307,307,2022-01-16,Sherri Alexander,Miller-Cox,Medicare,30713.431611796263,358,Emergency,2022-02-04
+308,308,2021-02-11,Karen Robinson,"Morris Parks, Marshall And",Cigna,4078.841651931194,117,Elective,2021-02-20
+309,309,2023-08-24,Brett Fernandez,"And Peck, Bell Peters",Blue Cross,36349.70731646039,289,Urgent,2023-09-07
+310,310,2024-01-29,Austin Norman,Hughes-Watson,Cigna,12499.764043874511,352,Emergency,2024-01-31
+311,311,2022-09-06,James Cook,Hamilton-Petty,Blue Cross,43340.02622227716,181,Elective,2022-10-03
+312,312,2021-08-16,Tanner Dixon,Inc Carson,Cigna,23022.997649797577,400,Urgent,2021-09-14
+313,313,2020-01-15,Lindsey Johnson,Group Brown,Medicare,35958.712994632835,202,Urgent,2020-02-13
+314,314,2023-06-03,Martin Lee,Wood-Moore,Cigna,19680.696931311628,355,Elective,2023-06-15
+315,315,2022-07-25,David Marshall,"Taylor And Ashley, Bishop",Medicare,31676.31599307712,449,Elective,2022-08-16
+316,316,2022-10-23,Carla Bishop,Anderson Group,Medicare,4399.730727908771,301,Urgent,2022-11-06
+317,317,2020-02-13,Vanessa Jones,Mosley-Roth,UnitedHealthcare,44310.27623183571,185,Urgent,2020-03-01
+318,318,2022-06-04,Ashley Nunez,"And Allen Jennings, Branch",Blue Cross,46670.457100923966,247,Elective,2022-06-16
+319,319,2019-08-09,Veronica Christian,Jackson-Butler,Medicare,38779.20787465818,268,Emergency,2019-09-03
+320,320,2022-07-04,Jerry Miller,Daugherty-Singleton,Cigna,43810.13719933162,310,Emergency,2022-07-31
+321,321,2021-12-16,Kathryn Thompson,"And Walker Mcintosh Dickerson,",Cigna,16484.475122002113,122,Elective,2021-12-28
+322,322,2021-02-11,Kimberly Stewart,Mendoza Group,Cigna,30731.96598418698,433,Emergency,2021-03-13
+323,323,2022-06-20,Corey Gallegos,Hodges Plc,Blue Cross,25170.01735349741,475,Urgent,2022-07-19
+324,324,2023-05-17,Vanessa Goodwin,Powell-Mcdonald,Aetna,31819.298294141616,354,Urgent,2023-05-21
+325,325,2023-05-07,Becky Mcdonald,Ltd Jennings,Blue Cross,15549.1991082046,239,Emergency,2023-05-31
+326,326,2019-09-07,Michael Evans,"Davis Bishop, Thomas And",Aetna,34058.67031730649,408,Elective,2019-10-03
+327,327,2020-05-18,Henry Brown,Kelly Group,UnitedHealthcare,10592.393219272408,220,Urgent,2020-06-08
+328,328,2021-07-13,James Hall,Inc Hernandez,UnitedHealthcare,8234.624397008709,434,Urgent,2021-08-03
+329,329,2021-08-10,Andrew Kaiser,"Johnson Rivas Hernandez, And",Aetna,1770.0819981137945,153,Urgent,2021-08-19
+330,330,2019-11-17,Jacqueline Roberts,And Wilson Sons,Aetna,27961.09347117237,346,Elective,2019-12-01
+331,331,2023-06-21,Christopher Smith,Ltd Golden,Blue Cross,23268.58100214749,365,Urgent,2023-07-18
+332,332,2022-12-31,Pamela Dougherty Dds,Smith-Bruce,Cigna,30338.74811588696,102,Urgent,2023-01-06
+333,333,2020-09-26,Jon Banks,Hayes-Flowers,UnitedHealthcare,8839.421850045743,460,Urgent,2020-10-03
+334,334,2024-01-18,Brenda Mills,"Lopez And Montes Neal,",Aetna,38124.815937764826,427,Emergency,2024-01-27
+335,335,2022-04-05,Dawn Russell,"Fisher Alvarado, And Wright",UnitedHealthcare,13969.270012315654,266,Emergency,2022-04-12
+336,336,2020-05-01,Carlos Brown,Inc Mccann,UnitedHealthcare,11568.814786181454,355,Emergency,2020-05-16
+337,337,2019-12-01,Tiffany Moore,Group Cook,Aetna,19551.83245327729,380,Emergency,2019-12-30
+338,338,2019-12-01,Cassandra Dudley,Harmon-Stein,Aetna,23048.502444486472,229,Elective,2019-12-03
+339,339,2019-10-28,Nicholas Hughes,Larsen-Coleman,Aetna,40962.75582010045,466,Elective,2019-11-23
+340,340,2020-11-03,Aaron Dickson,Jimenez Plc,Aetna,33886.26915672211,196,Emergency,2020-11-24
+341,341,2020-05-03,Janet Clements,Estes-Thomas,Cigna,21755.036797015287,396,Urgent,2020-05-09
+342,342,2020-03-02,Robert Reynolds,Brown-Gomez,Blue Cross,25568.91975161388,216,Urgent,2020-03-31
+343,343,2021-05-07,Zachary Poole,Cruz-Ramos,UnitedHealthcare,44640.94542046126,307,Emergency,2021-05-31
+344,344,2022-03-19,Nicole Jones,Walter-Kennedy,Medicare,15135.591066607249,176,Elective,2022-04-03
+345,345,2019-06-26,Cynthia Walters,Washington Inc,UnitedHealthcare,1204.1348580316671,163,Emergency,2019-07-23
+346,346,2019-11-23,Albert Mendez,Patterson Plc,UnitedHealthcare,21331.30232696536,394,Urgent,2019-12-18
+347,347,2022-03-04,Christian Lynch,Mcclain Llc,UnitedHealthcare,7864.413048846531,237,Elective,2022-03-18
+348,348,2021-07-31,Melissa Gibbs,"Jones Patel, Rose And",Aetna,31214.326972542724,261,Emergency,2021-08-17
+349,349,2020-07-13,Jerome Travis,Schroeder Plc,Cigna,13017.342166997036,186,Emergency,2020-07-14
+350,350,2021-07-04,Denise Vargas,Jensen-Moore,Cigna,20739.69309789949,491,Emergency,2021-07-31
+351,351,2021-10-06,Alexandra Meyers,Lee-Meyer,Aetna,39194.54382516047,286,Elective,2021-10-19
+352,352,2020-08-31,Diana Phillips,Cox-Hernandez,UnitedHealthcare,2431.949922387515,101,Urgent,2020-09-27
+353,353,2019-06-11,Pamela Jenkins,Cooke-Bell,Medicare,32516.213017622165,483,Urgent,2019-07-05
+354,354,2022-06-28,Jon Nelson,Garcia Plc,Medicare,36833.76692816152,459,Urgent,2022-07-23
+355,355,2020-04-20,Christine Williams,Inc Hughes,Cigna,26198.03966531385,377,Elective,2020-05-13
+356,356,2019-08-06,Steven Hardin,"Peterson And Williams Johnson,",Blue Cross,32721.060943707627,253,Urgent,2019-08-22
+357,357,2022-10-11,Jose Dixon,"Hendrix Walker And Williams,",Cigna,25750.908559703166,105,Urgent,2022-11-09
+358,358,2022-04-30,Renee Davidson,Cain Llc,Cigna,7070.441911719831,405,Elective,2022-05-01
+359,359,2024-02-04,David Anderson,Nguyen-Gillespie,Blue Cross,9469.502071297062,297,Emergency,2024-03-04
+360,360,2023-06-26,Dennis Wheeler,"Morales Sanders Burke, And",UnitedHealthcare,31142.599003080573,320,Elective,2023-07-21
+361,361,2019-09-15,Monica Russell,Melendez-Meyers,Blue Cross,25317.636710651987,240,Elective,2019-10-07
+362,362,2022-11-19,Matthew Taylor,Moore Inc,Aetna,33954.183920628355,373,Elective,2022-12-14
+363,363,2019-12-19,Erin Payne,"And Johnson, Jackson Clements",Aetna,48266.20993120117,402,Elective,2020-01-17
+364,364,2022-06-20,Alexander Stanley,"Stark, Haynes Snow And",Blue Cross,35074.35934916869,170,Urgent,2022-07-18
+365,365,2022-06-15,Scott Franklin,"Hall Cook, And Smith",UnitedHealthcare,18654.884136677923,232,Urgent,2022-06-24
+366,366,2024-04-04,Bradley Banks,"Molina Butler And Cherry,",UnitedHealthcare,19773.419599684366,199,Elective,2024-04-25
+367,367,2020-07-02,Dave Smith,"Martinez, And Zimmerman Davis",UnitedHealthcare,39607.44273963993,474,Emergency,2020-07-20
+368,368,2020-08-20,Jason Wilson,"And Henderson Salazar, Cooper",Aetna,29389.717905025303,298,Elective,2020-09-04
+369,369,2020-05-11,Christopher Sloan,Miller-Chen,Cigna,44116.19992492616,487,Emergency,2020-05-15
+370,370,2023-05-31,Danielle Bell,Cooper-Jones,Aetna,31128.431114081057,318,Elective,2023-06-18
+371,371,2023-01-07,Rhonda Blake,Sons And Murphy,UnitedHealthcare,46210.98992431258,398,Elective,2023-01-17
+372,372,2020-01-10,Frederick Vasquez,"Navarro, And Rice Mason",Aetna,22388.015419961983,322,Urgent,2020-01-21
+373,373,2022-12-08,Paula Morse,Lee Plc,UnitedHealthcare,49733.34266502861,283,Elective,2022-12-19
+374,374,2023-02-01,Larry Cain,Llc Gross,UnitedHealthcare,32599.94409907581,111,Elective,2023-03-02
+375,375,2021-12-09,Nicole Weaver,"Pearson, Carroll And Lane",Medicare,943.1165334604408,469,Elective,2022-01-08
+376,376,2021-08-07,Sabrina Perez,"Jenkins James, Arnold And",Aetna,10785.263758175312,171,Emergency,2021-08-30
+377,377,2022-11-08,Vicki Chavez,Shea-Bryant,Blue Cross,27580.03009707005,155,Urgent,2022-12-01
+378,378,2024-04-04,Chad Jones,Walker-Short,UnitedHealthcare,3355.137901065564,232,Elective,2024-04-05
+379,379,2022-08-25,Tina Thomas,"Robinson Macias Bennett, And",Aetna,18856.709602838764,377,Elective,2022-09-16
+380,380,2023-04-18,Anthony Joseph,Sons And Cox,Medicare,27970.313173081653,477,Urgent,2023-05-10
+381,381,2019-05-09,Melanie Orozco,Williams Llc,Blue Cross,21353.73944514957,162,Emergency,2019-05-13
+382,382,2024-01-15,Andrea King,Boyer-Burgess,Aetna,13900.054263055275,442,Urgent,2024-02-10
+383,383,2022-06-01,Brianna Perkins,Rodriguez And Sons,Medicare,32817.35047600342,456,Urgent,2022-06-10
+384,384,2023-03-16,James Hogan,And Mcdaniel Sons,Aetna,22570.586711464133,174,Emergency,2023-03-23
+385,385,2020-12-04,Tara Jones,Johnson-Foster,Cigna,21711.81373829063,257,Elective,2020-12-12
+386,386,2023-06-07,Kyle Walker,Payne Inc,Aetna,14373.03498009855,343,Urgent,2023-06-20
+387,387,2024-02-16,Robert Wilson,"Wilson Archer, And Jones",UnitedHealthcare,18025.26174264805,485,Elective,2024-03-09
+388,388,2022-11-19,Belinda Smith,"Fox Davis Long, And",Medicare,13136.00618909306,138,Emergency,2022-12-11
+389,389,2022-12-04,Laura Holland,"Hill Rivera, Wilson And",Aetna,25849.056516638164,158,Emergency,2022-12-30
+390,390,2021-09-30,Michelle Santiago,Reynolds-Harrell,Cigna,18951.839578143303,262,Urgent,2021-10-10
+391,391,2022-05-31,Kimberly Ford,Plc Ellis,Cigna,36351.27286559493,239,Emergency,2022-06-04
+392,392,2021-05-28,Amy Harrison,Howard-Mercado,Aetna,19013.436529150764,325,Elective,2021-06-11
+393,393,2020-03-10,Juan Nichols,Johnson-Lane,UnitedHealthcare,28948.407039401296,390,Elective,2020-03-11
+394,394,2020-01-30,Melissa Williams,"Kennedy, And Petersen Davis",Cigna,28128.61702155283,325,Urgent,2020-02-12
+395,395,2022-10-24,Tonya Miller,"And Solomon Leon, Suarez",Medicare,14649.696153990792,117,Urgent,2022-11-10
+396,396,2022-02-08,David Watkins,Wood-Smith,Medicare,44246.81904971081,135,Elective,2022-02-21
+397,397,2023-12-12,Dawn Conner,Wright Llc,Aetna,6481.642763840469,410,Elective,2023-12-22
+398,398,2020-10-23,Taylor King,Jordan-Kennedy,Medicare,44070.55171897849,364,Elective,2020-11-17
+399,399,2022-10-08,Daniel Mayer,And Lee Sons,Medicare,48590.77273203682,368,Urgent,2022-11-06
+400,400,2020-11-09,Jeffrey Frank,Price-Robinson,Medicare,46735.92339178535,234,Urgent,2020-11-25
+401,401,2022-08-20,Jessica Evans Dds,Booth-Moore,Blue Cross,26795.687018321925,182,Emergency,2022-09-01
+402,402,2024-04-26,Morgan Boyer,Banks-Higgins,UnitedHealthcare,31082.533092726477,313,Emergency,2024-05-25
+403,403,2022-09-26,Cheryl Miller,Mosley Inc,Aetna,9387.054696475416,193,Elective,2022-09-27
+404,404,2023-07-21,Erin Evans,Singh Sons And,Blue Cross,11345.214090834836,372,Urgent,2023-08-10
+405,405,2023-05-12,Michelle Wallace,Inc Stevens,Cigna,47255.56206412683,435,Elective,2023-06-10
+406,406,2023-05-06,Katherine Chavez,"Miller Conway And Cooper,",UnitedHealthcare,10957.736745284205,257,Elective,2023-05-31
+407,407,2021-09-03,Ronald Curtis,"Brown Byrd Stevens, And",Medicare,36582.62680974852,134,Emergency,2021-09-11
+408,408,2022-11-26,Amanda Christensen,Hill-Wall,Cigna,24635.740330683337,215,Emergency,2022-12-10
+409,409,2021-12-06,Carlos Bowers,"Hopkins Hopkins, And Dominguez",UnitedHealthcare,24256.98780234573,198,Elective,2022-01-02
+410,410,2021-12-17,Kevin Rodriguez,Sons And Sanchez,Aetna,9241.582329521669,359,Urgent,2022-01-05
+411,411,2021-08-05,Abigail Martin,Atkinson-Brady,Blue Cross,33610.24171906703,168,Elective,2021-09-03
+412,412,2023-03-10,Gavin Oneill,Ali-James,Aetna,17716.573980871726,272,Elective,2023-04-07
+413,413,2023-12-13,Patricia Dixon,Horton Sons And,Aetna,49235.95863494185,226,Emergency,2023-12-28
+414,414,2024-03-27,Bianca Sanchez,Wilson-Ross,Cigna,45227.75316137531,106,Urgent,2024-04-12
+415,415,2021-04-16,Amanda Reynolds,"Tyler And Andrade Lewis,",Aetna,16590.805730760025,467,Urgent,2021-04-24
+416,416,2020-01-02,Jessica Robertson,"Benson Wilson And Stewart,",Aetna,45063.29148434806,393,Elective,2020-01-11
+417,417,2019-12-14,Russell Washington,Ltd Gonzales,Aetna,14774.9908998158,132,Urgent,2020-01-02
+418,418,2021-08-16,Cathy Fritz,Fernandez-Miranda,Aetna,25537.49479776629,485,Emergency,2021-08-27
+419,419,2022-01-27,David Donovan,Taylor-Villegas,UnitedHealthcare,23421.013069162003,299,Emergency,2022-02-17
+420,420,2019-08-26,Cindy Ruiz,Plc Martinez,UnitedHealthcare,3101.142595743805,408,Emergency,2019-09-03
+421,421,2022-11-30,Austin Ross,Mayo-Williams,Medicare,20897.23249981465,228,Emergency,2022-12-17
+422,422,2022-06-05,Mary Becker,Garrett Inc,Blue Cross,31215.054210313858,295,Elective,2022-07-03
+423,423,2020-08-18,Richard Smith,"Ruiz Mejia Tran, And",Blue Cross,18156.572269065746,279,Emergency,2020-09-06
+424,424,2021-04-23,James Gonzalez,Hansen Llc,Aetna,30506.039167339663,123,Emergency,2021-05-22
+425,425,2019-11-17,Donald Peterson,Powell-Ballard,Aetna,34694.38287793835,119,Urgent,2019-12-07
+426,426,2022-05-11,Carolyn Mcgee,Kelly Ltd,UnitedHealthcare,41484.064819751744,205,Urgent,2022-06-07
+427,427,2023-12-06,Shannon Butler,"Kelly, And Gomez Williams",Cigna,3014.5658523878337,241,Emergency,2024-01-04
+428,428,2022-08-09,Maria Fox,Johnson Sons And,Blue Cross,38535.03945047281,471,Elective,2022-08-15
+429,429,2019-08-03,Michelle Reeves,Castillo-Price,Aetna,30926.585926152624,380,Elective,2019-08-15
+430,430,2020-09-27,Gregory Figueroa,Petersen-Hernandez,Medicare,-652.181369378297,144,Elective,2020-10-20
+431,431,2022-05-29,David Chen,Johnson Ltd,Cigna,48548.68021389708,291,Urgent,2022-06-18
+432,432,2020-05-09,Christopher Suarez,Pierce-Ellis,Cigna,28182.81178522409,369,Emergency,2020-06-03
+433,433,2024-02-08,Colleen Hines,"Smith, Rowe And Schmidt",Aetna,22907.004972898805,289,Elective,2024-03-01
+434,434,2023-06-03,Nancy Cole,Plc White,UnitedHealthcare,38814.78373476615,389,Emergency,2023-06-11
+435,435,2021-03-26,Todd Hamilton,Inc Zavala,Medicare,17593.462815366813,149,Emergency,2021-04-24
+436,436,2020-04-09,Kara Robinson,Jones Group,Aetna,36180.868208576525,443,Urgent,2020-04-15
+437,437,2020-06-21,Diana Johnson,Wright-Brown,Cigna,32144.485201848787,384,Elective,2020-07-19
+438,438,2021-09-16,Frank Huang,Inc Gross,Medicare,36143.31940208131,281,Elective,2021-10-03
+439,439,2021-03-28,Richard George,"Rivas, Martin And Moore",Blue Cross,32409.53647673215,373,Emergency,2021-04-02
+440,440,2021-07-30,Christopher Campbell,"Miller And Jenkins, Mcintyre",Medicare,16754.73007933238,361,Urgent,2021-08-21
+441,441,2020-02-03,Gary Dixon,"Simmons, Sanders And Griffin",Medicare,35818.182683255785,335,Emergency,2020-02-23
+442,442,2022-01-20,Michelle Pierce,Ltd Hunt,UnitedHealthcare,44068.81590432552,383,Elective,2022-02-09
+443,443,2023-10-03,Jenna Gardner,Ayers Group,Blue Cross,24988.105859077885,147,Emergency,2023-10-23
+444,444,2023-09-18,Maria Rubio,Allen Llc,Aetna,4793.234854583429,116,Urgent,2023-09-21
+445,445,2023-11-04,Kathleen Rowe,Richmond-Munoz,Blue Cross,8701.081837784544,203,Urgent,2023-11-17
+446,446,2020-11-13,Sara Woods,Gardner-Brown,Aetna,37164.17150544078,427,Elective,2020-12-02
+447,447,2020-12-19,Danielle Phillips,Suarez Inc,Cigna,40170.0677860682,106,Elective,2020-12-26
+448,448,2024-01-27,Holly Mitchell,"And Mejia Johnson Clark,",UnitedHealthcare,36973.343964037005,270,Elective,2024-02-26
+449,449,2019-09-09,Jillian Rios,And Wade Sons,Medicare,20219.174827288887,279,Elective,2019-10-08
+450,450,2022-03-23,Gary Sanchez,"Peterson Hall, Juarez And",Blue Cross,48454.12333712011,116,Elective,2022-04-08
+451,451,2020-07-02,Whitney Kane,And Sons Sanders,Medicare,14941.567708453947,205,Emergency,2020-07-26
+452,452,2023-05-13,Rita King,"Simmons Estrada And Smith,",Cigna,35750.097725848056,434,Urgent,2023-05-15
+453,453,2020-06-01,Sharon Marquez,"Pena, Salazar Hudson And",Medicare,2100.3072977603115,309,Elective,2020-07-01
+454,454,2022-04-19,Molly Andrade,Fernandez-Parrish,Medicare,12781.956885363155,298,Elective,2022-04-30
+455,455,2022-05-06,Dr. John Clark,Armstrong-Hubbard,Cigna,49467.93576271932,380,Emergency,2022-05-12
+456,456,2022-06-17,Jonathan Mcgee,Ltd Myers,Cigna,42352.30156256136,263,Elective,2022-06-20
+457,457,2020-10-28,David Thomas,Martin-Foster,Medicare,15009.780407174756,325,Elective,2020-11-22
+458,458,2019-05-16,Matthew Stewart,Booker-Mitchell,Aetna,45800.39370126187,490,Elective,2019-05-30
+459,459,2019-07-10,Alison Smith,Ltd Hernandez,Blue Cross,48960.23773973884,153,Urgent,2019-07-14
+460,460,2019-12-08,Michael Vance Phd,"Harris, Roberts And Carter",Blue Cross,10670.993348402671,370,Emergency,2019-12-20
+461,461,2021-09-04,Andrew Andrews,Garcia-Murphy,UnitedHealthcare,38518.053530785626,299,Urgent,2021-09-24
+462,462,2023-03-31,Renee Elliott,"Miller Hartman, Flores And",Aetna,28930.86977936551,446,Urgent,2023-04-16
+463,463,2021-02-07,Todd Oconnell,"Leach Ward And Johnson,",Cigna,21051.951158255462,483,Emergency,2021-02-16
+464,464,2023-09-17,Corey Figueroa,"Garner And Melton Holmes,",UnitedHealthcare,1372.1153518736196,108,Urgent,2023-10-11
+465,465,2020-01-10,Jared Olson,Berry-Gonzales,Medicare,38251.68608159162,467,Emergency,2020-01-22
+466,466,2020-05-28,Jacqueline Green,Anderson-Bradley,Blue Cross,22423.691891766397,490,Emergency,2020-06-14
+467,467,2021-09-09,John Oconnell,"Sanchez And Patel, Hicks",UnitedHealthcare,30468.186797108625,499,Elective,2021-09-26
+468,468,2022-12-09,Dr. Jeffrey Cox,Ortiz Llc,Medicare,28463.290139588826,467,Emergency,2022-12-22
+469,469,2023-05-12,Amanda Nolan,"Newton, And Patel Atkinson",UnitedHealthcare,1623.4894671906893,385,Emergency,2023-06-07
+470,470,2023-10-06,Louis Young,Moss-Olsen,Aetna,21590.33737093891,476,Emergency,2023-10-07
+471,471,2023-03-30,Donna Boyer,Ltd Kelley,Cigna,23311.455514350724,371,Urgent,2023-04-10
+472,472,2022-02-28,Micheal Burns,"Cantu Martinez, Ibarra And",Cigna,41762.50645724908,471,Emergency,2022-03-06
+473,473,2021-04-02,Jackson Gibson,"Weaver Fisher, Mitchell And",Aetna,16181.904438842948,107,Elective,2021-04-27
+474,474,2021-01-15,Kayla Vargas,Rivera-West,UnitedHealthcare,46754.68033528257,390,Emergency,2021-02-08
+475,475,2021-08-02,Anna Keith,"And Pearson Mullins, Kennedy",Medicare,3458.650602936234,223,Emergency,2021-08-12
+476,476,2021-05-15,Ashley Shaw,Williams Sons And,Aetna,20397.823778706603,147,Emergency,2021-06-04
+477,477,2019-08-25,Christine Mckinney,"And Hill Watson Dennis,",UnitedHealthcare,20214.907394216207,203,Emergency,2019-09-06
+478,478,2023-04-17,Timothy Stewart,Jones-Humphrey,Medicare,39451.94963085866,490,Elective,2023-05-11
+479,479,2021-08-02,Isabella Rodriguez,Macdonald-Gomez,Medicare,19194.645107825017,168,Urgent,2021-08-25
+480,480,2023-03-10,Nicholas Hicks,Plc Dougherty,Blue Cross,1979.7059256272216,334,Elective,2023-03-21
+481,481,2021-01-01,Katherine Flynn,Bishop Plc,UnitedHealthcare,8470.641299553332,328,Elective,2021-01-27
+482,482,2023-10-01,Darius Silva,White-Jackson,Cigna,19748.38383538941,153,Elective,2023-10-16
+483,483,2021-07-20,Erica Duran,Silva-Rodriguez,UnitedHealthcare,3277.047413987108,335,Urgent,2021-07-21
+484,484,2022-06-06,Aaron Higgins,King Ltd,Aetna,19013.6903017968,156,Emergency,2022-06-28
+485,485,2022-12-04,Tamara Schneider,Camacho Llc,Aetna,25070.268087111283,104,Elective,2022-12-07
+486,486,2020-10-01,Jonathan Myers,"And Nixon, Kerr Henderson",Medicare,1738.1830043449304,141,Emergency,2020-10-08
+487,487,2020-02-12,Sheryl Pena,"Fitzgerald, Michael And Estrada",Aetna,35622.19525064218,350,Urgent,2020-03-07
+488,488,2020-03-09,Vicki Moran,Plc Guerrero,UnitedHealthcare,16302.229569657124,149,Emergency,2020-03-25
+489,489,2020-03-27,Cynthia Padilla,Reeves-Sullivan,Medicare,33627.664167901145,239,Urgent,2020-04-11
+490,490,2020-02-27,Jeffrey Gonzalez,"And Ramsey Wong, Cox",Blue Cross,12897.007518072152,107,Emergency,2020-03-26
+491,491,2023-01-21,Roberto Schwartz,Cooper Sons And,UnitedHealthcare,15965.456103125567,390,Elective,2023-02-17
+492,492,2022-03-06,Matthew Caldwell,Estrada Sons And,UnitedHealthcare,9801.29849127043,336,Elective,2022-03-10
+493,493,2022-12-21,Logan Davis,Barber Group,UnitedHealthcare,12486.285042160443,110,Urgent,2023-01-13
+494,494,2023-06-20,Dr. Christopher Gonzalez,"And Burns, Moore Hopkins",Medicare,45823.34293831843,425,Elective,2023-07-19
+495,495,2023-10-20,Alyssa Fischer,"And Moore Martinez Owens,",Blue Cross,46576.02250700402,338,Emergency,2023-10-31
+496,496,2020-11-02,Shane Morales,Cruz-Cohen,UnitedHealthcare,6005.423706778242,323,Emergency,2020-11-22
+497,497,2021-03-08,Carly Flynn,And Gibson Sons,Aetna,43413.98618195885,355,Urgent,2021-03-25
+498,498,2020-08-05,Andrea Wilson,Rodriguez Group,Cigna,14857.125469543733,136,Urgent,2020-08-31
+499,499,2021-12-06,Brian Cooper,Phelps Group,Blue Cross,35828.31950223647,248,Emergency,2021-12-12
+500,500,2021-12-07,David Harper,Ltd Edwards,UnitedHealthcare,21438.149444539496,450,Urgent,2021-12-19
+501,501,2020-05-13,Anthony Wagner,"Hood, And Rodriguez Sims",Blue Cross,22293.372473649462,446,Elective,2020-05-26
+502,502,2021-11-28,Thomas Gomez,"And Lopez Fields, Fletcher",UnitedHealthcare,5307.14006839012,435,Urgent,2021-12-28
+503,503,2019-05-29,Patrick Gardner,"And Lopez Singleton Boyle,",Blue Cross,13114.908381964831,339,Emergency,2019-06-22
+504,504,2019-08-06,Rebecca Thornton,Inc Sanchez,Medicare,5530.4802745058605,427,Urgent,2019-09-01
+505,505,2022-07-28,Gina Richardson,Phillips-Hudson,Blue Cross,9208.588015779158,389,Urgent,2022-08-18
+506,506,2021-01-25,Caleb Brown,"Williams And Scott Owens,",UnitedHealthcare,3766.558141311037,261,Emergency,2021-02-11
+507,507,2020-03-04,Kelly Taylor,Llc Hernandez,Aetna,26478.40394045485,404,Urgent,2020-04-03
+508,508,2021-10-16,Donald Wheeler,Lang-Cain,Cigna,43342.37960076132,121,Urgent,2021-10-23
+509,509,2021-02-19,Kelly White,Brewer Plc,Blue Cross,22190.339279441752,251,Emergency,2021-03-20
+510,510,2022-07-01,Mitchell Daniel,And Sons Montoya,Aetna,30293.371345793654,124,Emergency,2022-07-21
+511,511,2021-09-26,Jordan Jimenez,Russell-Hodges,Blue Cross,40536.659733146495,475,Emergency,2021-09-30
+512,512,2022-05-30,Mrs. Emily Buckley,Morgan-Higgins,Blue Cross,35222.9098352699,253,Elective,2022-06-29
+513,513,2021-01-18,Eric Massey,"And Wilson, Wright Moore",Aetna,19369.825312690107,258,Elective,2021-02-02
+514,514,2023-12-17,Ronald Nelson,And Atkins Sons,Blue Cross,45574.81442682826,226,Urgent,2024-01-06
+515,515,2023-09-24,Debra Lester,"Bartlett Hays Shelton, And",Blue Cross,31690.88760427212,109,Emergency,2023-10-05
+516,516,2024-02-15,Matthew Williams,"Watson Mitchell Garcia, And",Medicare,42744.31462114608,244,Elective,2024-02-23
+517,517,2020-02-19,Ashley Ramirez,"Daniel Lopez, Bates And",Medicare,24014.27897010222,300,Emergency,2020-03-10
+518,518,2020-05-07,Kathleen Mcpherson,"Nielsen And Cannon, Leonard",Blue Cross,7880.263977699595,429,Emergency,2020-05-28
+519,519,2021-10-27,Brian Hart,"King Rodriguez, Barber And",Aetna,8009.653225995223,392,Emergency,2021-10-31
+520,520,2022-03-15,Mr. Andre Joseph Jr.,Cannon Group,UnitedHealthcare,32890.09368218686,440,Elective,2022-04-09
+521,521,2021-12-09,Colleen Ray Md,"Schmidt Wright And Dawson,",Medicare,36488.68783514061,379,Urgent,2021-12-22
+522,522,2019-12-27,Jeremy Singh,Llc Anderson,Aetna,42759.59747643193,299,Elective,2020-01-04
+523,523,2022-05-30,Jonathan Montgomery,Young-Carr,Medicare,31754.36135496585,438,Urgent,2022-06-21
+524,524,2020-11-16,Cory Pratt,"Gray, Potter Stephenson And",UnitedHealthcare,7246.455237304093,363,Emergency,2020-11-23
+525,525,2023-02-10,Andrew Rodriguez,Pope Plc,Aetna,6487.759441506259,104,Emergency,2023-03-04
+526,526,2022-06-24,Matthew Thomas,"And Howell Brooks, Rogers",Cigna,25966.328610220968,418,Elective,2022-07-18
+527,527,2020-06-19,Brittany Baird,Nolan-Welch,Blue Cross,24887.993230427222,486,Elective,2020-07-13
+528,528,2021-07-01,Olivia Silva,"Butler And May, Baldwin",Aetna,16190.021886190145,128,Elective,2021-07-05
+529,529,2022-04-06,Brianna Lloyd,"Garcia, And Kirk Rogers",Cigna,40891.60378891556,146,Urgent,2022-04-19
+530,530,2019-08-05,Ashley Stark,Llc Potts,UnitedHealthcare,3563.658276298173,255,Emergency,2019-09-03
+531,531,2019-09-19,Jonathan Morales,Moreno Plc,Aetna,25162.64034069834,224,Urgent,2019-09-28
+532,532,2021-07-25,Christopher Odom,Anderson Llc,UnitedHealthcare,6958.697671213205,493,Elective,2021-07-28
+533,533,2020-03-28,Ms. Laura Garner,Gonzalez-Mcdonald,Aetna,26638.516477859102,112,Elective,2020-03-29
+534,534,2020-08-21,Rebecca Sandoval,Inc Tyler,Medicare,29128.264825868497,391,Elective,2020-09-12
+535,535,2020-12-25,Jerry Rice,"Blevins Taylor And Castro,",Medicare,20249.44274295996,248,Elective,2021-01-22
+536,536,2024-02-08,Ryan Wallace,Owens-Dawson,Blue Cross,47269.95264229598,416,Elective,2024-02-10
+537,537,2022-02-09,Vicki Levine,Llc Dorsey,UnitedHealthcare,44404.47394342071,420,Urgent,2022-02-24
+538,538,2020-11-30,Jamie Davis,"Nguyen, Cooper And Valentine",Blue Cross,30563.01873988274,154,Urgent,2020-12-23
+539,539,2020-03-29,Carol Watkins,"And Mason Stewart Gardner,",Medicare,30715.8379728645,295,Elective,2020-04-21
+540,540,2022-10-12,George Meyer,"And Howell, Richardson Fuentes",Blue Cross,20000.52667838309,236,Urgent,2022-10-21
+541,541,2023-10-07,Danielle Lewis,Hogan-Sanders,Cigna,38849.69544032475,421,Emergency,2023-10-24
+542,542,2019-09-22,Richard Richard,"Barnes Jackson And Alvarado,",Aetna,40589.23303699722,143,Elective,2019-10-20
+543,543,2020-04-29,Amanda Collins,Garcia-Trevino,Blue Cross,12358.20240008313,220,Elective,2020-05-16
+544,544,2021-08-31,Elizabeth Bautista,Llc Simmons,Cigna,32835.6104592237,247,Elective,2021-09-28
+545,545,2020-03-02,Russell Holt,Richardson-Murillo,UnitedHealthcare,16343.145622814847,413,Urgent,2020-03-20
+546,546,2021-12-01,Kyle Lamb,"Brooks And Wilkinson Anderson,",Blue Cross,22544.404133930853,169,Urgent,2021-12-17
+547,547,2020-01-26,Lindsey Torres,"Brown And Gillespie, Long",UnitedHealthcare,41500.41875487707,222,Urgent,2020-02-10
+548,548,2021-05-24,Dana Melendez,Llc Hardy,Cigna,42640.08312655967,199,Emergency,2021-06-10
+549,549,2023-05-22,Bonnie Clark,Watson-Page,Blue Cross,1647.5446578336582,157,Urgent,2023-05-23
+550,550,2019-06-19,Andrea Cordova,Ltd Brown,Medicare,20945.369101023218,417,Emergency,2019-06-24
+551,551,2020-04-15,Stephanie Pena,"Johnson Allen Brown, And",Blue Cross,20756.30324358551,146,Elective,2020-04-27
+552,552,2023-01-05,Aaron Pace,Clark-Rivers,Blue Cross,41982.11019254328,495,Urgent,2023-01-12
+553,553,2021-02-09,Jennifer Palmer,"Zavala Garrett Griffith, And",Cigna,18911.05534163854,355,Elective,2021-03-08
+554,554,2022-03-10,Chad Fitzpatrick,Martin Plc,Aetna,15872.790027181116,451,Emergency,2022-03-25
+555,555,2023-01-15,Victoria May,Dawson Llc,Aetna,36312.369120771815,351,Elective,2023-01-28
+556,556,2019-11-14,Scott Aguilar,Cruz-Raymond,Medicare,33620.78017817195,210,Urgent,2019-12-13
+557,557,2020-01-06,Ryan Allen,"And Graves, Roth Jackson",UnitedHealthcare,24037.87129733512,383,Elective,2020-01-20
+558,558,2020-10-05,Jessica Byrd,"Bryant And Thomas, Smith",Aetna,16267.126606894102,253,Elective,2020-10-14
+559,559,2023-08-07,Dennis Fisher,Brown-Martin,Medicare,896.6384977272942,194,Elective,2023-08-26
+560,560,2022-04-05,Daniel Jones,And Sons Castillo,Blue Cross,8878.990402731562,313,Elective,2022-04-12
+561,561,2022-11-15,Walter Wagner,"Burns Allen, And Simon",Blue Cross,49358.67102064377,475,Elective,2022-11-18
+562,562,2021-02-28,April Miles,Roberts-West,UnitedHealthcare,32929.81760964563,384,Urgent,2021-03-03
+563,563,2020-01-15,Elizabeth Browning,"Frazier Jones Perez, And",Aetna,41037.809719527766,444,Emergency,2020-02-04
+564,564,2019-12-02,Teresa Hoffman,Nichols Ltd,Medicare,47534.872567130406,150,Emergency,2019-12-22
+565,565,2020-08-24,Paige Griffin,"Wise Mccoy And Ward,",UnitedHealthcare,11999.320160452797,486,Urgent,2020-09-11
+566,566,2022-10-06,Molly Lewis,Gonzalez-Mora,Medicare,27453.891041935636,199,Urgent,2022-10-14
+567,567,2023-05-24,Amanda Martin,Sellers-Welch,UnitedHealthcare,21077.07486681954,338,Elective,2023-05-29
+568,568,2020-02-22,Kathleen Dougherty,Ruiz-Pratt,Aetna,19275.021053458047,377,Elective,2020-03-14
+569,569,2021-10-14,Angela Young,Mccoy-Horton,Medicare,31233.01179789733,253,Emergency,2021-11-02
+570,570,2023-03-28,Mariah Rush,Mason-Wilson,Aetna,41015.96115957841,330,Elective,2023-04-03
+571,571,2019-09-04,Andrea Rodriguez,Cook-Woodard,UnitedHealthcare,7706.861628160239,391,Urgent,2019-09-25
+572,572,2021-04-12,Christy Taylor,"White And Aguirre Nguyen,",UnitedHealthcare,45027.67808153061,278,Urgent,2021-04-26
+573,573,2023-10-24,Katherine Montgomery Dvm,And Hickman Sons,Blue Cross,5022.521441898944,407,Emergency,2023-10-25
+574,574,2024-01-11,Stephanie Little,"And Stone, Moore Fisher",UnitedHealthcare,15409.372441458623,238,Elective,2024-01-16
+575,575,2022-12-12,Chelsea Contreras,Plc Hull,UnitedHealthcare,35630.32229599108,203,Urgent,2023-01-04
+576,576,2020-01-12,Jonathon Sampson,"Knox Mcfarland, Hester And",Medicare,35513.63014313917,351,Urgent,2020-01-16
+577,577,2021-09-05,Diana Hartman,"Patrick, Munoz And Banks",Medicare,47263.31572495158,256,Elective,2021-09-14
+578,578,2023-04-26,Drew Hayes,"Hayes Calhoun And Smith,",Medicare,21207.726982234937,495,Elective,2023-05-26
+579,579,2022-07-04,Jose Garcia,"Jimenez, Adams And Moore",Medicare,24108.727676189683,298,Emergency,2022-07-11
+580,580,2020-03-31,Sheila Nelson,"Patterson Shaw And Grant,",Cigna,15077.025389866569,281,Emergency,2020-04-16
+581,581,2023-03-20,William Ellis,"And Fisher Robinson Cole,",Medicare,34924.76727454959,315,Emergency,2023-03-24
+582,582,2022-02-12,Mark Perry,"Sosa Murphy, And Alexander",Cigna,36201.841530408405,143,Emergency,2022-03-11
+583,583,2024-04-08,Vicki Murphy,Hall Sons And,Blue Cross,23415.411278716187,339,Elective,2024-04-25
+584,584,2019-07-13,Steven Brandt,Livingston-Spears,Cigna,44781.23567928629,340,Elective,2019-08-02
+585,585,2023-07-24,Darlene Austin,"Schwartz Poole Mills, And",Blue Cross,46100.53004006255,471,Elective,2023-08-05
+586,586,2020-10-05,Clarence Kramer,Harmon-Yoder,Aetna,12487.338230842608,303,Urgent,2020-10-09
+587,587,2022-06-09,Joshua Jones,Mendoza Group,Cigna,19689.063768491287,311,Emergency,2022-06-27
+588,588,2022-05-08,Jason Krueger,"And Evans, Mccann Thomas",Medicare,36129.83829158581,269,Elective,2022-05-29
+589,589,2020-04-12,Timothy Morrison,"Gardner Cook, And White",Cigna,30105.604100265493,448,Elective,2020-05-09
+590,590,2022-10-26,Ian Watts,"Baxter Khan, And Jarvis",UnitedHealthcare,23723.84982107056,216,Urgent,2022-11-01
+591,591,2022-06-21,Maria Fernandez,"Trevino Rivas, And Foley",Aetna,34379.364709939415,421,Elective,2022-07-17
+592,592,2024-04-29,Matthew Roth,"Tran Tate Thompson, And",Blue Cross,17089.60720511548,246,Emergency,2024-05-05
+593,593,2021-03-06,Steven Mendez,Plc Lam,Medicare,44893.34228250466,436,Elective,2021-03-16
+594,594,2021-01-15,Megan Ponce Dvm,"Reyes Cook, Vaughn And",Medicare,49396.23677204017,191,Elective,2021-02-10
+595,595,2024-05-06,Mary Gallagher,Inc Robinson,Cigna,19542.90548623039,452,Elective,2024-05-24
+596,596,2019-10-26,Jerry Patterson,Barnes-Hernandez,Aetna,19399.488328843014,500,Elective,2019-11-05
+597,597,2020-10-28,Monique Cole,"Rogers And Campbell, Boyd",UnitedHealthcare,32637.479497439806,216,Urgent,2020-11-21
+598,598,2023-01-21,Caitlin Smith,Castillo-Beck,Aetna,40691.078973511314,135,Emergency,2023-01-28
+599,599,2019-11-18,Leah Jones,Andrade-Shields,Aetna,29589.63242329908,249,Emergency,2019-12-03
+600,600,2022-11-26,James Martinez,Llc Ortega,Aetna,43453.754704225306,481,Emergency,2022-11-29
+601,601,2019-07-24,Sarah Woodward,"And Ramirez Wilson Wolfe,",Cigna,5797.82658758862,230,Elective,2019-08-07
+602,602,2021-07-23,Jodi Sanford,"Davis Schmidt, Jones And",Blue Cross,27010.36596768609,131,Elective,2021-08-22
+603,603,2023-11-24,Brooke Shaw,Mcdonald-Davenport,Medicare,32785.816969576976,137,Emergency,2023-11-30
+604,604,2022-04-24,Melody Davila,Walton Sons And,Aetna,32623.394884495865,413,Urgent,2022-05-13
+605,605,2019-10-08,Randy Bridges,Jefferson Ltd,Aetna,29993.897349540275,339,Emergency,2019-11-06
+606,606,2019-09-09,John Johnson,Wright-Jones,Medicare,34934.29797949988,380,Emergency,2019-10-09
+607,607,2022-02-13,Sarah Cole,Ltd Walton,Blue Cross,4920.041189088703,278,Elective,2022-02-20
+608,608,2019-05-27,James Medina,Crawford-Diaz,Aetna,11827.046180125672,256,Elective,2019-06-24
+609,609,2020-05-23,Matthew Gonzales,Ltd King,Medicare,13235.381859459752,486,Urgent,2020-06-21
+610,610,2019-06-23,Aaron Moreno,"Townsend And Brown Kennedy,",UnitedHealthcare,22115.26645020557,208,Elective,2019-07-23
+611,611,2024-02-07,Marie Moran,Ltd Rivas,Aetna,4454.472659509182,326,Emergency,2024-02-25
+612,612,2019-10-23,Vanessa Hayes,"Wilson And Brown Arnold,",Cigna,13877.419002947585,123,Emergency,2019-11-05
+613,613,2024-03-07,Kristen Cooper,Miller-Robinson,Medicare,25107.28324707071,347,Emergency,2024-03-28
+614,614,2020-07-25,Christopher Scott,"Harris Jackson Pearson, And",UnitedHealthcare,47408.57771839778,299,Urgent,2020-08-12
+615,615,2022-09-14,Christopher Foster,"Williams Watson, And Little",Aetna,48519.93545766309,288,Elective,2022-10-10
+616,616,2023-08-11,Robert Christian,"And Osborne Hicks Farmer,",UnitedHealthcare,10180.083504646274,495,Urgent,2023-08-17
+617,617,2019-10-13,Jennifer Mendez,Wheeler-Richards,Medicare,30870.604457420905,274,Urgent,2019-11-04
+618,618,2019-07-13,Shannon Snow,Lane Llc,Medicare,23362.23232683065,317,Emergency,2019-07-20
+619,619,2019-05-27,Darrell Williams,Llc Ray,Aetna,8054.114456956399,292,Urgent,2019-06-16
+620,620,2021-03-24,Glenn Burns,"Walker, And Payne Taylor",Cigna,7686.977734921264,217,Urgent,2021-04-01
+621,621,2020-11-26,Victoria Fuentes,Evans-Salas,UnitedHealthcare,2329.560721564876,403,Emergency,2020-12-17
+622,622,2021-11-20,David Morris,Campbell-Miranda,Blue Cross,15152.4077278976,159,Elective,2021-11-23
+623,623,2019-07-24,Jeremiah Nelson,"Kerr And Hoffman, Lutz",UnitedHealthcare,37355.45304490765,175,Elective,2019-08-15
+624,624,2023-02-17,Brandon Phillips,Hawkins Ltd,Blue Cross,33341.54775564709,411,Elective,2023-03-13
+625,625,2020-11-24,Kathryn White,Jenkins-Rodriguez,Medicare,48774.80949854291,246,Urgent,2020-11-25
+626,626,2020-04-13,Antonio Macias,Stone Plc,Medicare,17586.686337982734,286,Emergency,2020-04-25
+627,627,2024-04-10,Shelby Lyons,Monroe Inc,Cigna,29546.63362012553,188,Emergency,2024-04-12
+628,628,2022-05-25,Anthony Ray,Fox Plc,Medicare,20217.6455331479,431,Emergency,2022-05-31
+629,629,2023-04-24,Kenneth Wilson,Llc Moore,Medicare,38456.30289782296,442,Urgent,2023-04-28
+630,630,2024-05-07,Karl Medina,"And Rowe Wood Reyes,",Blue Cross,46204.64243839234,292,Elective,2024-05-25
+631,631,2019-06-23,Elizabeth Smith,"Carlson, And Wilkinson Jones",Aetna,14354.069081924188,360,Elective,2019-07-08
+632,632,2023-10-18,Jordan Lynch,Rowe Inc,Blue Cross,47243.06132517926,143,Emergency,2023-10-23
+633,633,2021-12-11,Brittany Brown,"Fitzgerald Terry Shepherd, And",UnitedHealthcare,37688.81675302298,407,Elective,2021-12-14
+634,634,2020-05-24,Kevin Green,Llc Freeman,UnitedHealthcare,27776.325043677298,144,Elective,2020-06-10
+635,635,2021-07-29,Michael Roach,Burns-Hernandez,Aetna,30515.52980080898,247,Emergency,2021-08-09
+636,636,2020-01-27,Eric Williams,Gates Inc,Blue Cross,7761.276222397857,341,Urgent,2020-02-05
+637,637,2023-07-18,Charles Smith,Porter Llc,Blue Cross,12868.96876967076,324,Elective,2023-07-26
+638,638,2020-11-05,Leslie Jones,Sullivan-Jordan,Medicare,13164.81897541959,185,Emergency,2020-11-13
+639,639,2023-10-20,Daniel Lopez,Thomas Ltd,UnitedHealthcare,41980.30188010762,290,Emergency,2023-11-08
+640,640,2021-10-04,Rebecca Berry,Rodriguez-Mann,UnitedHealthcare,25868.613150680016,237,Urgent,2021-10-27
+641,641,2019-10-22,Donald Parrish,"Jones And Hill, Medina",UnitedHealthcare,14294.898234310773,457,Urgent,2019-11-02
+642,642,2019-07-31,Tiffany Meadows,Harris Ltd,Medicare,20601.27545940366,415,Elective,2019-08-17
+643,643,2023-10-15,Tabitha Kelly,Phillips-Davis,Medicare,48481.42470468096,456,Emergency,2023-10-23
+644,644,2021-03-13,Kelly Barnett,"Horton Coleman, Spencer And",Aetna,7887.172168975947,150,Emergency,2021-03-16
+645,645,2020-07-04,Kim Wilson,Inc Elliott,Blue Cross,25266.58601843497,428,Urgent,2020-07-10
+646,646,2023-07-05,Kenneth Sanders,"Soto And Bradford, Smith",Medicare,35052.33506336783,340,Emergency,2023-07-18
+647,647,2019-11-08,Veronica Wallace,"Gill Wilson Conley, And",Medicare,30887.886490101377,322,Emergency,2019-11-17
+648,648,2020-11-19,Paul Lee,Pittman-Moody,Cigna,29882.49931695332,355,Urgent,2020-12-19
+649,649,2024-02-06,Stephanie Mata,Hill-Scott,Medicare,17089.986147006603,322,Urgent,2024-02-27
+650,650,2022-07-21,Jessica Parrish,Tucker Ltd,Medicare,32101.079795694663,458,Urgent,2022-07-29
+651,651,2021-05-20,Jennifer Ramirez,And Flores Sons,Blue Cross,1709.05968429875,210,Urgent,2021-06-13
+652,652,2022-02-24,Thomas Lopez,Miller Inc,Aetna,36827.0066219146,419,Elective,2022-03-24
+653,653,2021-05-01,Maureen Roberson,Mason-Washington,Aetna,15079.044756793632,211,Elective,2021-05-21
+654,654,2023-10-24,Charles Johnson,Garrison Ltd,Medicare,18222.12107709259,398,Emergency,2023-11-13
+655,655,2023-06-08,Danielle Sims,White-Thompson,Aetna,44829.96320701356,496,Emergency,2023-07-04
+656,656,2022-10-11,Diane Cabrera,"Calhoun Ewing, And Morris",Cigna,17349.646108682122,491,Urgent,2022-10-28
+657,657,2024-02-27,Katherine Hays,Hall And Sons,Medicare,25007.00245365199,340,Emergency,2024-03-10
+658,658,2022-04-20,Brian Freeman,Anthony-Smith,Medicare,25435.190600486647,398,Urgent,2022-05-19
+659,659,2020-08-03,Louis Obrien,Inc Marshall,UnitedHealthcare,9764.975267220234,469,Elective,2020-08-29
+660,660,2020-03-30,Juan Robertson,Sons And Hernandez,Aetna,5699.873665669172,245,Elective,2020-04-14
+661,661,2022-08-17,Sarah Robinson,"Holland, And Davenport Reyes",UnitedHealthcare,49562.85750190846,216,Urgent,2022-08-20
+662,662,2019-06-17,Luke Riley,Group Johnson,Cigna,12545.088465505993,478,Urgent,2019-07-03
+663,663,2019-09-03,Michelle Perez,"Tanner Smith Miller, And",UnitedHealthcare,21561.77238669936,127,Urgent,2019-09-05
+664,664,2020-04-03,Kelly Wilson,Summers-Hernandez,Blue Cross,34908.9200679528,231,Emergency,2020-04-29
+665,665,2020-05-30,Robin Farley,Carter Inc,Cigna,45732.01618840694,173,Emergency,2020-06-12
+666,666,2023-10-04,Wendy Shaw,Torres-Lutz,Aetna,15228.857668210578,263,Emergency,2023-10-06
+667,667,2024-02-20,Andrea Jordan,"And Carpenter Jones Fisher,",Aetna,7162.991126430416,197,Emergency,2024-02-26
+668,668,2022-10-29,Alexander Garcia,"Decker Glover, And Christensen",Aetna,21879.53191106356,492,Urgent,2022-11-20
+669,669,2022-08-28,Wendy Martinez,"Carson, Williams Hicks And",Medicare,14654.572717720195,353,Emergency,2022-09-24
+670,670,2019-08-28,Douglas Douglas,Group Garcia,Medicare,17130.4920725272,354,Emergency,2019-09-22
+671,671,2022-01-26,Sean Greene,Llc Riley,Blue Cross,6943.09450998402,161,Elective,2022-02-19
+672,672,2024-03-16,James Andrews,Llc Robles,Aetna,49479.47433447826,281,Urgent,2024-04-04
+673,673,2023-12-17,Ashley Myers,Smith-Harris,Medicare,19363.380768701358,143,Urgent,2024-01-16
+674,674,2019-11-19,Heather Graham,Spence-Johnson,Medicare,8442.352202233677,109,Emergency,2019-12-19
+675,675,2022-12-02,Carmen Jones,Miller-Gardner,Cigna,16998.250963199545,233,Emergency,2022-12-25
+676,676,2020-01-09,Isaac Kent,"Drake, And Harrington Clark",Aetna,23082.47713869355,462,Elective,2020-01-30
+677,677,2020-07-06,Leah Hancock,Davis-Lawrence,Blue Cross,32019.91331999175,129,Urgent,2020-07-11
+678,678,2020-08-02,Mary Murphy,Inc Morales,Cigna,37254.25468183217,105,Emergency,2020-08-14
+679,679,2021-07-31,Anthony Meza,White-Jacobs,Cigna,45228.170220460175,165,Urgent,2021-08-21
+680,680,2020-06-06,Andres Gallegos,Group Anderson,Aetna,31418.243340906905,233,Elective,2020-06-21
+681,681,2020-09-03,Debbie Decker,Morales Plc,Blue Cross,9467.62748646828,288,Elective,2020-10-02
+682,682,2023-08-10,Catherine Ramirez,"Ortega Howe, Torres And",Blue Cross,5751.64759200112,248,Urgent,2023-08-19
+683,683,2021-01-05,David Flores,"King And French Ramirez,",UnitedHealthcare,-32.34872934198097,415,Urgent,2021-01-20
+684,684,2023-04-04,Janice Kelly,"Powell Hansen, And Landry",Cigna,46850.526119772,216,Urgent,2023-04-21
+685,685,2023-09-20,Ronald Mora,Berger-Wood,Aetna,5925.7415226136045,301,Elective,2023-10-14
+686,686,2020-06-09,Amber Roman,Cummings-Gross,UnitedHealthcare,49213.4501903269,394,Urgent,2020-07-05
+687,687,2020-10-11,Renee Sloan,Ltd King,Blue Cross,26321.52777433137,337,Urgent,2020-10-18
+688,688,2021-12-21,Andrea Bentley,"And Wagner, Lee Klein",Aetna,-306.3649251412676,426,Elective,2022-01-11
+689,689,2020-03-15,Holly Nguyen,Llc Perez,Medicare,11598.335453924148,246,Urgent,2020-04-02
+690,690,2021-11-25,Cassandra Sullivan,Collins-Ross,Blue Cross,2746.053499632413,140,Urgent,2021-12-19
+691,691,2023-07-19,James Smith,Leon Ltd,Cigna,16752.518384391748,348,Emergency,2023-08-14
+692,692,2024-04-03,Amy Hughes,"Ryan And Andersen Jones,",UnitedHealthcare,13372.020613663748,269,Emergency,2024-04-06
+693,693,2022-10-20,Amanda Gonzalez,"Graves And Mcclure Obrien,",Cigna,29862.360225817083,187,Elective,2022-11-10
+694,694,2021-04-22,Kristina Martinez,Dunlap Plc,Cigna,12411.26303463048,377,Elective,2021-04-27
+695,695,2020-03-11,Kayla Ritter,"Campbell And Johnson, Erickson",Aetna,29139.56960905743,358,Elective,2020-04-02
+696,696,2022-07-20,Penny Black,Lee Llc,Medicare,12126.096271993923,429,Elective,2022-07-25
+697,697,2019-09-24,Joshua Roberson,"And Smith, Day Barnett",UnitedHealthcare,16639.027313002538,421,Emergency,2019-10-06
+698,698,2023-10-03,Mr. James Hayes,"Anderson And Howell Fry,",UnitedHealthcare,43000.71153273206,230,Emergency,2023-10-18
+699,699,2020-04-06,Kevin Booth,And Smith Sons,Cigna,41072.7473116322,340,Urgent,2020-04-08
+700,700,2022-06-05,Amber Henry,And Sons Beasley,Aetna,22655.09759432155,388,Urgent,2022-06-21
+701,701,2023-10-26,Tyler Fox,Rodriguez Group,Aetna,28813.187617716405,184,Urgent,2023-11-09
+702,702,2022-12-02,Randall Moore,"Collins And Walker Bailey,",Aetna,29035.601852611355,303,Urgent,2022-12-19
+703,703,2023-05-18,Jerry Clarke,"Harris David Reed, And",UnitedHealthcare,48728.53201882112,318,Elective,2023-06-16
+704,704,2021-02-22,Robert Harrington,Frederick Inc,UnitedHealthcare,46234.51612862186,391,Emergency,2021-03-06
+705,705,2022-09-27,Katherine Carter,Group Wong,Blue Cross,1039.8295540824024,350,Emergency,2022-10-15
+706,706,2020-05-14,Hannah Castaneda,Miranda-David,Cigna,15267.872509261424,437,Elective,2020-05-26
+707,707,2022-03-07,Shane Martinez,French And Sons,UnitedHealthcare,19047.768393481405,445,Elective,2022-04-02
+708,708,2023-07-30,Jennifer Bailey,Garcia Sons And,Medicare,21898.95823765953,160,Urgent,2023-08-01
+709,709,2020-08-20,Timothy Charles,Fitzgerald-Fuentes,Medicare,10161.779012786135,211,Elective,2020-09-16
+710,710,2021-12-13,Misty Thomas,"White, And Benson Mckay",Medicare,41815.751453016914,255,Elective,2021-12-17
+711,711,2020-05-09,Michael Carter,"Frank, Ballard And Moore",Medicare,12964.935850344062,471,Urgent,2020-05-13
+712,712,2024-02-04,Heather Ho,Burns-Dominguez,Cigna,34379.22000399648,336,Elective,2024-02-10
+713,713,2021-06-19,Justin Little,"Ware Johnson, Benjamin And",Medicare,24764.977086090872,195,Urgent,2021-07-06
+714,714,2020-07-14,Wayne Nelson,Sanchez-Carrillo,UnitedHealthcare,2246.6106740102364,500,Emergency,2020-08-04
+715,715,2024-03-24,Andrea Lewis Md,Sheppard-Johnson,Aetna,24232.62711988693,487,Elective,2024-04-12
+716,716,2019-11-22,Sandra Perkins,"King And Manning, Barron",Blue Cross,43275.6064438797,416,Urgent,2019-12-14
+717,717,2019-11-13,Jeffrey Shelton,Anderson Sons And,UnitedHealthcare,29493.48920715175,281,Urgent,2019-11-26
+718,718,2020-05-29,Jasmine Hurst Md,Smith-Williams,Medicare,47047.89093145279,395,Elective,2020-06-22
+719,719,2022-08-21,Justin Weiss,Group Nichols,Cigna,31609.601443592343,373,Emergency,2022-08-27
+720,720,2020-11-06,Nicole Kent,Llc Hill,Cigna,32569.558798350325,135,Urgent,2020-11-24
+721,721,2020-09-23,George Rodriguez,"Smith Miller Cochran, And",Blue Cross,12748.127170103604,353,Urgent,2020-09-27
+722,722,2021-07-02,Amanda Anthony,"Foley, Archer And Garcia",Medicare,17426.01457032195,375,Emergency,2021-07-13
+723,723,2022-04-09,Michael Walker,Galvan Ltd,UnitedHealthcare,3821.056241356416,351,Urgent,2022-04-28
+724,724,2021-12-22,Elizabeth Ellison,Ho-Melendez,Cigna,5468.866407573774,457,Urgent,2022-01-18
+725,725,2021-11-27,Jerome Adams,"Tyler, Kline Silva And",Aetna,43006.3887257352,297,Elective,2021-11-28
+726,726,2021-04-30,Brian Ingram,Lee Group,Blue Cross,21806.494455320186,164,Emergency,2021-05-09
+727,727,2019-07-29,Amy Anderson,Mathis-Burton,Blue Cross,31249.11286394913,223,Elective,2019-08-25
+728,728,2019-12-15,Elizabeth Johnson,Horton-Clay,Cigna,27619.855057170626,393,Elective,2019-12-22
+729,729,2019-09-25,Theresa Warren,"Mclaughlin, Butler And Macdonald",UnitedHealthcare,36154.78330024449,245,Urgent,2019-10-08
+730,730,2021-04-30,Lisa Jones,Inc Barnes,Medicare,40421.19105688974,455,Elective,2021-05-06
+731,731,2023-07-13,Thomas Todd,Atkinson-Johnson,Cigna,36061.84909144672,161,Urgent,2023-08-04
+732,732,2024-03-10,Angela Moss,"And Davis Hoffman, Moore",Cigna,38587.05808239076,330,Elective,2024-04-07
+733,733,2023-08-15,Lisa Vasquez,"Rodriguez And Davis Thornton,",Blue Cross,1602.5652677975272,102,Elective,2023-09-06
+734,734,2022-07-20,Chelsea Craig,Oconnor-Fuentes,Blue Cross,8186.270336946586,413,Emergency,2022-07-28
+735,735,2020-07-18,Robert Sheppard,"Moore Terry Huynh, And",Blue Cross,13447.507002518876,433,Elective,2020-08-05
+736,736,2023-02-09,Jessica Schaefer,"Rogers And Clark, Barber",Medicare,22096.821980889326,440,Emergency,2023-03-03
+737,737,2023-04-23,Diana Jensen,Barrett-Johnson,Medicare,6524.597766018861,145,Emergency,2023-04-26
+738,738,2022-04-07,Chris Anderson,Lewis-Hale,Cigna,34926.90231038602,107,Elective,2022-04-08
+739,739,2021-02-27,Kayla Parks,"And Oliver Lewis, Smith",Medicare,1704.8429982177947,478,Elective,2021-03-19
+740,740,2021-03-11,Patricia Munoz,Thomas-Schneider,Medicare,8267.938833983051,390,Elective,2021-03-14
+741,741,2023-02-27,Zachary Davis,Fernandez-Jackson,Cigna,1848.830054799568,222,Elective,2023-03-03
+742,742,2019-09-30,Earl Matthews,Inc Olson,Cigna,43422.16761768455,149,Elective,2019-10-05
+743,743,2021-09-01,Gary Hayes,"Warner Roy And Welch,",Blue Cross,35154.36928467809,270,Emergency,2021-09-14
+744,744,2023-09-29,James King,Group Young,UnitedHealthcare,41714.09649942766,254,Urgent,2023-10-25
+745,745,2022-10-16,Denise Luna,"And Stevenson Morton, Barnett",UnitedHealthcare,31586.431197869315,251,Elective,2022-10-28
+746,746,2019-10-24,Monica Smith,Davis-Patterson,Cigna,35036.25234909417,401,Elective,2019-11-08
+747,747,2020-05-13,Anthony Bray,"And Flynn Leonard, Schultz",Blue Cross,24565.85709439776,167,Urgent,2020-06-01
+748,748,2021-11-19,Christopher Guerra,"And Brown Oneal, Shah",Medicare,23067.672165245425,307,Elective,2021-12-12
+749,749,2023-03-07,Robert Coleman,"Hancock Smith, Lawson And",Aetna,42274.60163072656,135,Elective,2023-03-21
+750,750,2023-12-28,Heather Morgan,"And Webb, Anderson Garza",UnitedHealthcare,17381.17217834591,163,Urgent,2024-01-10
+751,751,2023-08-20,Gregory Richardson,Foster Llc,Medicare,14924.875875572548,399,Urgent,2023-08-28
+752,752,2022-09-28,Joshua Mcdonald,Ltd Zamora,Cigna,27852.099265261884,141,Emergency,2022-10-16
+753,753,2019-07-09,Trevor Anderson,Short-West,Medicare,16749.47124668897,146,Elective,2019-08-03
+754,754,2020-02-16,Andrew Williams,Ltd York,Blue Cross,34339.242438963745,380,Elective,2020-03-10
+755,755,2022-08-08,Amber Ramirez,Plc Newman,Aetna,5095.746426757896,262,Urgent,2022-08-18
+756,756,2020-02-18,Lisa Barnett,Group Williams,UnitedHealthcare,32616.876997406405,135,Urgent,2020-03-01
+757,757,2020-12-12,Karl Kennedy,Flores Ltd,Aetna,8981.107060706092,462,Elective,2021-01-09
+758,758,2021-07-04,Brady Burke,Plc Williams,UnitedHealthcare,3836.597755206722,328,Urgent,2021-07-07
+759,759,2019-11-26,William Manning,Pineda Llc,Aetna,21231.34176583865,336,Elective,2019-12-20
+760,760,2023-09-12,Tyler Rojas,And Gray Sons,Aetna,31434.02466170017,336,Elective,2023-10-03
+761,761,2019-05-20,Julia Russell,Inc Jacobs,Blue Cross,5243.023876271549,466,Elective,2019-05-23
+762,762,2019-08-28,Sheri Daniels,Bishop Plc,Cigna,30229.96885291906,305,Urgent,2019-09-17
+763,763,2024-02-08,James Turner,Randall-Jackson,Aetna,10698.28347673405,258,Emergency,2024-02-17
+764,764,2023-08-04,Emily Smith,Ltd Patel,Medicare,39067.1705951664,497,Emergency,2023-08-19
+765,765,2022-09-28,April Gray,"Garrett Cortez, And Price",UnitedHealthcare,15294.204387634698,140,Emergency,2022-10-06
+766,766,2023-11-23,Sean Avila,Plc Hinton,Medicare,43651.547429506245,259,Elective,2023-12-21
+767,767,2023-04-24,Wanda Mcclure,"Barrera, Ramos And Gomez",Cigna,44243.17518710788,403,Emergency,2023-05-23
+768,768,2020-08-16,Meghan Mills,Myers-Washington,Blue Cross,47038.422616168646,323,Emergency,2020-08-19
+769,769,2020-05-27,Gina Gregory,Peterson-Ortiz,Medicare,49459.6227513428,150,Emergency,2020-06-21
+770,770,2021-12-29,Scott Prince,"Washington And Quinn Ali,",Aetna,43860.610296895175,444,Emergency,2022-01-16
+771,771,2022-02-06,Stephanie Barry,Goodman-Kelly,Aetna,42068.08554554182,160,Urgent,2022-02-08
+772,772,2023-02-28,George Whitney,"And Bender, Christian Le",Aetna,45300.59138980376,429,Emergency,2023-03-19
+773,773,2024-02-06,Caitlin Brown,Griffin Group,Cigna,44600.85843491544,375,Elective,2024-02-11
+774,774,2020-09-01,Patrick Reynolds,Plc Hart,Blue Cross,13256.244525774282,451,Urgent,2020-09-06
+775,775,2021-02-08,Angelica Joseph,Smith-Hooper,Medicare,48916.66807454622,182,Elective,2021-02-10
+776,776,2020-10-30,Bonnie Henderson,Plc Russell,Medicare,5176.647582812084,254,Emergency,2020-11-11
+777,777,2020-09-27,Jennifer Lowe,Carlson-Mcfarland,Medicare,7421.736216715415,115,Emergency,2020-10-20
+778,778,2020-05-23,Lindsey Cooper Md,Ibarra Group,UnitedHealthcare,8256.47160907584,382,Elective,2020-06-06
+779,779,2023-07-31,Jon Kemp,"And Castillo Bell Chavez,",UnitedHealthcare,48082.39475283531,224,Urgent,2023-08-26
+780,780,2021-03-08,Denise Fernandez,"And Henry, Brown Acosta",Aetna,40469.61355292081,256,Urgent,2021-03-26
+781,781,2024-01-06,Linda Hoffman,"And Pennington Carter, Lewis",Blue Cross,16254.52411377495,277,Urgent,2024-02-01
+782,782,2021-08-20,Kenneth Parker,Ltd Barber,Aetna,27330.71011314216,341,Urgent,2021-09-02
+783,783,2022-12-24,Cheryl Montoya,Llc Morales,Aetna,23378.01089741111,129,Emergency,2023-01-05
+784,784,2020-06-24,Alexandra Ruiz,Group Garcia,Blue Cross,23307.51261583588,125,Emergency,2020-07-20
+785,785,2024-04-19,Karen Dixon,Jones-Nguyen,Aetna,41023.71381200059,295,Emergency,2024-05-13
+786,786,2021-03-07,Kristina Alvarez,"And Reeves Hess Miller,",Aetna,28259.025123509844,343,Elective,2021-03-09
+787,787,2020-08-08,George Owen,Ltd Maldonado,Cigna,18850.447961841102,308,Emergency,2020-08-29
+788,788,2021-08-24,Dana Contreras,Inc Bowman,Medicare,43998.1794242917,495,Urgent,2021-09-02
+789,789,2021-09-06,Zachary Sanchez,Wilson-Walker,UnitedHealthcare,36000.44200972674,188,Elective,2021-09-07
+790,790,2023-08-07,Michael Reid,Smith-Grimes,Medicare,39993.28986855356,376,Emergency,2023-09-01
+791,791,2020-03-18,Wesley Alvarez,And Sons Thompson,Medicare,8820.498098286704,121,Urgent,2020-04-05
+792,792,2022-03-21,Catherine Baker,Marquez-Jackson,Blue Cross,14127.525494056734,312,Emergency,2022-04-19
+793,793,2021-01-23,Ronald Lambert,Cantu-Espinoza,Aetna,26525.98709387101,428,Emergency,2021-02-13
+794,794,2021-07-21,Derek Richardson,Jones-Brown,Blue Cross,8994.872544191967,121,Urgent,2021-08-09
+795,795,2019-12-13,John Jackson,Inc Gonzales,Cigna,22771.17455523972,226,Elective,2020-01-04
+796,796,2023-02-28,Dennis Spencer,"And Hayes Williams Walker,",UnitedHealthcare,45377.70038173472,221,Elective,2023-03-02
+797,797,2023-12-06,Wendy Gonzalez,Norris-Davies,Aetna,7831.408293113967,276,Urgent,2023-12-18
+798,798,2021-08-22,Lacey Elliott,Llc Smith,Blue Cross,19452.84147472358,406,Elective,2021-09-15
+799,799,2019-07-06,Joshua Norton,Peterson Ltd,Medicare,29167.01040440321,340,Emergency,2019-07-10
+800,800,2023-12-02,Brooke Bowen,Plc Phillips,UnitedHealthcare,26371.20260672885,345,Elective,2023-12-04
+801,801,2021-05-05,Andrea Chandler,Roach-Edwards,Aetna,36968.80868697499,259,Emergency,2021-05-14
+802,802,2023-04-16,Michael Williams,"Williams, Johnson Mills And",UnitedHealthcare,2203.527640561369,119,Urgent,2023-05-10
+803,803,2021-08-12,Erik Adams,"And Ellis, Williamson Thomas",Aetna,30883.37753138113,240,Elective,2021-08-16
+804,804,2020-01-11,Patricia Foster,Hoover Group,Medicare,47941.92892122897,427,Urgent,2020-01-29
+805,805,2020-05-10,Heather Hill,Leonard-Phillips,UnitedHealthcare,8096.089228947022,196,Urgent,2020-06-04
+806,806,2020-07-30,Brian Garcia,Green-Anderson,UnitedHealthcare,10257.009832517577,421,Urgent,2020-08-14
+807,807,2023-02-15,James Whitney,"And Richards Paul, Fitzpatrick",Medicare,7822.839912283564,370,Urgent,2023-03-09
+808,808,2021-08-30,Mr. Zachary Brown,Stevens-Lewis,Cigna,9098.697538210492,238,Urgent,2021-09-18
+809,809,2019-07-08,Daniel Valdez,Shaw Sons And,Aetna,25097.322529998983,340,Emergency,2019-07-23
+810,810,2023-12-03,Bryan Kelly,Frye Llc,Medicare,31210.77128761833,230,Emergency,2023-12-26
+811,811,2020-07-21,Ashley Brooks,"Patel And Nelson, Pena",Medicare,3588.037532645369,141,Elective,2020-08-11
+812,812,2022-10-31,Timothy Salazar,Greene-Garrett,Blue Cross,11702.119983326233,462,Emergency,2022-11-25
+813,813,2020-08-24,Sandra Bender,"Leblanc Conway, Holt And",Aetna,34381.68871217591,330,Urgent,2020-09-06
+814,814,2024-03-22,Keith Ortiz,Anderson Inc,UnitedHealthcare,15902.06792563558,171,Urgent,2024-03-24
+815,815,2023-07-05,Daniel Brown,Group Lamb,Aetna,24489.233974225343,252,Elective,2023-07-11
+816,816,2022-04-12,Angela Baldwin,Patel Group,Blue Cross,4455.47832816356,251,Elective,2022-05-07
+817,817,2022-01-31,Austin Grant,Plc Flores,Medicare,43613.626903012846,435,Urgent,2022-02-26
+818,818,2024-04-07,Cindy Ellis,Scott-Kelly,UnitedHealthcare,39723.16605142787,244,Emergency,2024-05-04
+819,819,2022-12-21,Lindsay Ramirez,And Sons Lloyd,Aetna,48305.41690744144,118,Emergency,2022-12-25
+820,820,2021-05-12,Elizabeth Smith,"Neal Lopez And Parker,",Medicare,18578.543103291617,436,Urgent,2021-05-24
+821,821,2024-02-03,Amy Taylor,Plc Jackson,Cigna,33098.309009703145,366,Emergency,2024-02-15
+822,822,2020-05-01,Wesley Hendricks,"Moore And Lara Jones,",UnitedHealthcare,11503.300993363911,406,Urgent,2020-05-05
+823,823,2023-05-08,Brenda Parker,Collier-Morgan,Medicare,20074.625157638675,245,Urgent,2023-05-10
+824,824,2021-10-27,Kristin Johnson,Jenkins-Larson,Cigna,40956.97844494708,446,Urgent,2021-10-31
+825,825,2024-04-05,Julie Cline,Ltd Stewart,Blue Cross,41956.59030005274,326,Urgent,2024-05-04
+826,826,2020-06-20,Amanda Zimmerman,Plc Osborne,Blue Cross,10482.943044267771,463,Emergency,2020-07-17
+827,827,2022-08-06,Shelia Cabrera,"And Conrad Ponce Washington,",Cigna,31057.961173114345,288,Urgent,2022-08-30
+828,828,2022-02-28,Mariah Boyer,Webster-Walters,Blue Cross,46812.79373533116,180,Elective,2022-03-26
+829,829,2020-05-30,Patricia Hubbard,"Miller And Tucker, Byrd",Blue Cross,41314.77221720119,386,Emergency,2020-06-26
+830,830,2023-09-20,Noah Buck,Waters Plc,Blue Cross,13024.745505101448,232,Elective,2023-10-20
+831,831,2020-10-26,Jeffrey Barrett,Rogers Ltd,Medicare,18489.24310552134,361,Emergency,2020-11-15
+832,832,2023-08-01,Erika Reed,Smith And Sons,Cigna,11502.56851406096,281,Emergency,2023-08-06
+833,833,2021-09-13,Michael Hogan,Inc Pace,UnitedHealthcare,36686.655929617344,488,Urgent,2021-10-09
+834,834,2019-10-19,James Cooper,Miller-Fuller,Aetna,20454.740093042503,113,Elective,2019-11-03
+835,835,2022-11-06,Kelly Hunter,Walker Ltd,Medicare,24386.70788158715,341,Emergency,2022-11-18
+836,836,2022-09-24,Craig Davis,Browning-Williams,UnitedHealthcare,37489.852916081065,160,Urgent,2022-10-08
+837,837,2020-09-04,Edwin King,Hernandez-Cunningham,Aetna,48649.34133429747,287,Emergency,2020-09-08
+838,838,2021-09-05,Mary Scott,"Boyer And Stark Baker,",Blue Cross,49203.13873266829,102,Urgent,2021-09-06
+839,839,2021-09-16,Theresa Holmes,Howard Ltd,Medicare,9396.413378564008,215,Elective,2021-09-23
+840,840,2023-05-27,Ralph Barber,Mata-Schmidt,UnitedHealthcare,50534.72771642235,346,Emergency,2023-06-24
+841,841,2023-06-10,Theodore Wu,"Roach Silva, And Carpenter",Aetna,5247.337368784334,312,Elective,2023-07-02
+842,842,2022-08-27,Shannon Adkins,Henry-Schneider,UnitedHealthcare,39977.61279511421,196,Emergency,2022-09-13
+843,843,2021-11-23,Christopher Shaw,Sons Martin And,Aetna,28725.62616677494,488,Elective,2021-12-15
+844,844,2021-06-15,Amber Blake,"Carter And Torres Jones,",Cigna,4947.404867767826,102,Elective,2021-07-03
+845,845,2023-10-26,Charles Wood,Sons And Horton,Cigna,41291.81636427154,109,Urgent,2023-10-30
+846,846,2021-05-10,Richard Davis,Group Davis,Medicare,38683.44682776301,418,Elective,2021-05-16
+847,847,2023-01-31,Robert Thompson,"Klein And Stewart Smith,",Aetna,3897.988530608578,111,Urgent,2023-03-01
+848,848,2023-10-08,Jordan Solis,Miller Inc,Aetna,11898.809555485155,177,Emergency,2023-11-04
+849,849,2023-10-22,Jamie Allison,"Ryan, And Bates Paul",Aetna,31601.973046065603,228,Emergency,2023-11-12
+850,850,2020-09-19,Lori Dunn,"And Tran Olsen Curry,",UnitedHealthcare,38934.47156219235,452,Urgent,2020-10-16
+851,851,2024-04-18,Christina Nguyen,Rojas-Simpson,Blue Cross,12851.660639651323,242,Emergency,2024-05-11
+852,852,2022-03-31,Jessica Brock,Cobb Group,Medicare,11012.672426144309,254,Emergency,2022-04-25
+853,853,2022-07-19,Janet Powell,Llc Moran,UnitedHealthcare,40850.07087025005,296,Emergency,2022-08-11
+854,854,2019-06-26,Keith Bates,Plc Hunt,Cigna,12412.108329359227,292,Urgent,2019-07-21
+855,855,2020-03-22,Alicia Jacobs,Hill-Gates,UnitedHealthcare,14317.502812706132,491,Elective,2020-04-11
+856,856,2021-12-26,Alicia Rogers,Joseph-Mack,Cigna,28644.135868103876,458,Urgent,2022-01-14
+857,857,2023-10-25,Hector Nelson,"And Oliver Stevenson, Hill",Medicare,50338.663271803634,233,Urgent,2023-11-03
+858,858,2021-02-16,Michelle Boyle,Stevens Plc,Aetna,44106.59417609516,364,Emergency,2021-02-27
+859,859,2021-12-08,Richard Davis,"And Jones, Dixon Armstrong",UnitedHealthcare,43362.40637209921,416,Elective,2021-12-22
+860,860,2022-09-27,Darren Wright,Plc Thompson,Cigna,26410.645822735973,171,Emergency,2022-10-07
+861,861,2022-12-03,Mark Pruitt,Johnston-Anderson,Cigna,49381.07031029338,226,Emergency,2022-12-04
+862,862,2020-08-10,Christopher Avery,Perry And Sons,Blue Cross,1773.4557157416407,480,Elective,2020-08-26
+863,863,2023-07-04,Frank Mitchell,Mendoza-Woods,Medicare,44828.93643033104,196,Emergency,2023-07-22
+864,864,2020-09-30,Mr. David Murray Md,"Riggs, King And Walls",Cigna,22375.523434130173,323,Emergency,2020-10-26
+865,865,2020-05-16,Linda Horne,Ltd Wilkinson,Blue Cross,30421.86075771424,187,Elective,2020-05-23
+866,866,2021-06-21,Amanda Pratt,Kim-Harris,Aetna,18269.18558762756,479,Emergency,2021-07-13
+867,867,2020-09-25,Janet Vazquez,"Maddox, Ayala And Shannon",Aetna,8107.014373549153,245,Urgent,2020-10-22
+868,868,2021-06-07,Lisa Pennington,Price-Torres,Blue Cross,818.8204652873678,368,Emergency,2021-06-14
+869,869,2020-07-01,Jason Adkins,"Edwards And Solomon, Perez",UnitedHealthcare,18039.097084694786,473,Elective,2020-07-14
+870,870,2023-04-15,Richard Nixon,Chung-Floyd,Aetna,23472.252020725253,468,Elective,2023-05-06
+871,871,2023-11-13,Robert Bradley,Daniels-Castaneda,Medicare,43750.65325172345,438,Elective,2023-11-17
+872,872,2024-01-28,Dale Tran,"Johnson And Flores, Beck",Cigna,21763.66056908913,313,Elective,2024-02-16
+873,873,2024-02-20,Marcus Kent,"Rubio Hammond, And Martinez",Aetna,9534.31078021926,428,Elective,2024-03-11
+874,874,2022-03-22,Sean Gomez,Conley-Miranda,Cigna,32323.91489807254,278,Emergency,2022-04-01
+875,875,2023-11-09,Michael Mills,Simmons-Perez,UnitedHealthcare,46296.24726077865,315,Elective,2023-11-16
+876,876,2021-01-22,Ryan Mason,Mccarty-Wilson,Blue Cross,4329.630116161826,117,Emergency,2021-02-18
+877,877,2020-10-13,Samantha Wallace,"Rodriguez Brennan Allen, And",UnitedHealthcare,37573.78924554364,361,Elective,2020-10-17
+878,878,2020-07-20,Kristopher Marshall,"And Allen Reeves, Gross",UnitedHealthcare,35543.366537948685,302,Urgent,2020-08-11
+879,879,2024-04-22,Joyce Cooper,Porter-Perez,Blue Cross,24192.688347496685,432,Emergency,2024-05-16
+880,880,2023-06-04,Zachary Brown,Sons And Huber,UnitedHealthcare,36507.87763090788,453,Urgent,2023-06-17
+881,881,2019-07-02,Andrea Howell,"Carpenter Walsh, Mccarthy And",UnitedHealthcare,42324.1224949557,439,Urgent,2019-07-04
+882,882,2021-02-21,Matthew Townsend,"Miller And Mendoza Lopez,",Cigna,40056.2269363501,423,Elective,2021-02-23
+883,883,2021-12-10,Andrea Cooper,"Gross, Carter Simmons And",Aetna,37061.26684971631,437,Urgent,2021-12-18
+884,884,2022-02-18,Carla Snow,Price-Pierce,Cigna,26738.43242401746,437,Emergency,2022-03-14
+885,885,2021-01-06,Jeff Lewis,"And Williams, Hoover Maldonado",Medicare,38476.00767300936,191,Emergency,2021-01-26
+886,886,2019-05-13,Christine Warner Dvm,Lucas Plc,Aetna,31377.307331889624,261,Urgent,2019-05-26
+887,887,2022-05-02,Donna Owens,Plc Sullivan,Blue Cross,43919.92454758604,162,Emergency,2022-05-03
+888,888,2024-01-23,Mark Santana,Camacho Ltd,Blue Cross,9806.367025419606,228,Emergency,2024-02-04
+889,889,2021-04-20,Jared Morgan,"Durham Ray And Reyes,",UnitedHealthcare,19461.24957455933,423,Emergency,2021-04-22
+890,890,2020-01-20,Susan Roy,Inc Phillips,Aetna,9613.260851095454,455,Urgent,2020-02-02
+891,891,2020-10-17,Christina Robertson,Llc Maddox,Blue Cross,27458.692063385824,397,Emergency,2020-11-16
+892,892,2021-05-11,Jesus Jenkins,"And Mcintosh Stone, Serrano",Aetna,7447.075954096005,286,Elective,2021-05-22
+893,893,2024-04-30,Rodney Gregory,Stanley-Davis,Cigna,14831.211789538944,204,Emergency,2024-05-18
+894,894,2020-11-18,Mason Bell,"Smith Wright And Garcia,",Cigna,40020.59946469757,388,Urgent,2020-11-29
+895,895,2023-01-24,Lauren Freeman,Inc Allen,Medicare,2426.4973655125486,295,Elective,2023-02-17
+896,896,2020-05-30,Philip Waters,Bailey Inc,Aetna,48056.82868522816,275,Elective,2020-06-13
+897,897,2020-04-12,Colin Hamilton,"And Mcguire Gallegos, Martinez",UnitedHealthcare,2941.5577478197906,363,Urgent,2020-04-17
+898,898,2023-05-02,Jill Ramirez,Johnson-Brown,UnitedHealthcare,13677.337019831286,230,Elective,2023-05-14
+899,899,2022-07-25,Terry Goodman,"Deleon, And Estes Chavez",Aetna,15374.3073406146,429,Emergency,2022-07-28
+900,900,2019-08-31,Rodney Kirby,Sutton-Reid,Medicare,22748.343752536923,325,Elective,2019-09-11
+901,901,2021-09-04,Theresa Sharp,"Padilla Ramirez Adkins, And",UnitedHealthcare,49670.655445198,112,Urgent,2021-09-22
+902,902,2022-06-01,Susan Terry,Love Plc,Aetna,46387.61658624745,271,Elective,2022-06-07
+903,903,2021-01-29,Robert Fuentes,Llc Scott,Cigna,18412.604644680123,481,Emergency,2021-02-03
+904,904,2021-05-01,Shawn Mckinney,"Ryan And Woods Hicks,",UnitedHealthcare,27685.50157745984,168,Emergency,2021-05-17
+905,905,2019-06-24,Jenna Bennett,Ewing-Hartman,UnitedHealthcare,35330.66765161375,446,Urgent,2019-07-20
+906,906,2021-08-09,Anthony Houston,"And Zhang Brooks, Hamilton",UnitedHealthcare,36765.36261321501,285,Emergency,2021-08-24
+907,907,2023-05-03,Nicole Cook,Warren-King,Cigna,48594.88361029584,141,Urgent,2023-05-09
+908,908,2019-09-12,Donna Kim,Murphy-Cole,Blue Cross,29935.75495492983,438,Emergency,2019-09-16
+909,909,2020-08-09,Dr. Ian Bentley,"And Schmidt Schultz, Smith",Blue Cross,43211.66619891581,486,Emergency,2020-08-24
+910,910,2023-01-28,Adrian Jacobs Phd,"And Pittman Thomas, Stein",Aetna,33345.580467448344,171,Emergency,2023-02-22
+911,911,2020-03-28,Mike Ramirez,Perez Plc,Cigna,15753.349778566184,108,Emergency,2020-04-22
+912,912,2020-11-09,Dennis Hopkins,Mcconnell Group,Medicare,40694.93876097278,192,Elective,2020-11-28
+913,913,2020-11-06,Robin Martin,"And Marks Brown Owens,",Aetna,44739.31597356612,356,Emergency,2020-12-02
+914,914,2021-03-09,Lauren Miller,Hunt-Malone,Aetna,48755.72013398559,125,Urgent,2021-03-21
+915,915,2020-03-20,Corey Martinez,"Juarez, Mercer And Andrews",Aetna,37790.04370692221,241,Elective,2020-04-03
+916,916,2022-07-08,David Steele,Obrien-Thomas,UnitedHealthcare,39009.48846204464,424,Elective,2022-07-21
+917,917,2022-08-24,Deborah Russell,Moran-Daniels,Cigna,18072.294298628927,426,Urgent,2022-09-10
+918,918,2023-09-17,Carl Smith,Jackson-Kelley,Blue Cross,36283.47422618386,214,Urgent,2023-09-29
+919,919,2021-09-14,Holly Davis,"And Walter Jackson Kelly,",UnitedHealthcare,49021.27210665789,467,Urgent,2021-09-26
+920,920,2023-11-08,Alicia Collins Md,Smith-Palmer,Blue Cross,40810.46047104782,250,Emergency,2023-11-18
+921,921,2024-02-16,Brian Wallace,"Davis Ewing And Hudson,",UnitedHealthcare,34371.88141362485,344,Emergency,2024-03-11
+922,922,2023-01-06,Miguel West Phd,"Avery, Doyle Wells And",Cigna,36461.50520168508,445,Urgent,2023-01-28
+923,923,2024-03-25,Karen Green,"And May Douglas, Perry",UnitedHealthcare,45174.27227009051,310,Urgent,2024-04-08
+924,924,2019-10-27,Nicholas Baker,Wise-Russell,Medicare,21492.65579968294,319,Urgent,2019-11-21
+925,925,2023-08-18,Melissa Grant,Hernandez-Robertson,UnitedHealthcare,41774.114342662186,449,Urgent,2023-09-11
+926,926,2020-05-24,Donna Stokes,"And Walter, Lang Jones",Aetna,36814.56622948183,367,Emergency,2020-06-16
+927,927,2022-05-02,Paul Lewis,Group Johnson,Medicare,20433.618194508017,279,Emergency,2022-05-23
+928,928,2020-05-29,Daniel Turner,Schmidt-Arias,Cigna,10576.366486068406,344,Emergency,2020-06-20
+929,929,2022-09-30,Christopher Caldwell,"Perez And Cook, Hines",Cigna,12264.637810472736,146,Urgent,2022-10-20
+930,930,2022-10-13,Jamie Webb,Group Dawson,Cigna,11203.394651417391,313,Elective,2022-11-08
+931,931,2020-12-23,Kathleen Hall,"Washington, And Johnson Thomas",UnitedHealthcare,6399.296905391466,368,Elective,2020-12-29
+932,932,2021-09-19,Patricia Castro,Williams Group,Blue Cross,29051.731201288883,475,Emergency,2021-10-06
+933,933,2020-04-19,Nicholas Gregory,"And Saunders Franco, Morgan",Blue Cross,37161.22169251068,413,Elective,2020-05-19
+934,934,2021-12-27,Brandon Baker,Palmer-Parker,UnitedHealthcare,3951.028541011359,304,Urgent,2021-12-29
+935,935,2023-07-04,John Lawrence,"Davis And Robinson, Ross",Aetna,11756.81812303748,500,Elective,2023-07-29
+936,936,2021-07-09,Susan Pacheco,"Larson, Proctor Cooper And",Aetna,19115.5873670279,489,Elective,2021-07-11
+937,937,2020-06-21,Victor Escobar,And Sons Robbins,Aetna,21976.20422294719,283,Elective,2020-07-10
+938,938,2021-01-02,Robert Roberson,Delgado-Daniel,Cigna,7601.7085225565,269,Emergency,2021-01-28
+939,939,2020-01-12,Marc Salazar,Mayo Ltd,Aetna,7853.797910682608,280,Elective,2020-01-24
+940,940,2021-07-25,Julie Gibson,Llc Anderson,Medicare,35896.862786458405,415,Emergency,2021-08-24
+941,941,2020-08-05,Craig Mitchell,"Turner And Franklin Boyer,",Blue Cross,28288.94055045359,169,Urgent,2020-08-12
+942,942,2021-12-31,Debra Adams,"Mcintyre Finley, And Jones",Cigna,30245.5110491449,264,Urgent,2022-01-01
+943,943,2021-03-04,Justin Moore Jr.,Houston Plc,Blue Cross,18843.02301783416,260,Elective,2021-03-14
+944,944,2023-03-01,Sandra Key,Williams Inc,Aetna,38160.72481604702,319,Urgent,2023-03-05
+945,945,2021-01-25,Martin Dominguez,Inc Harmon,Aetna,6267.540561718074,140,Urgent,2021-01-27
+946,946,2023-05-26,Brittany Sharp,Watts-Hughes,UnitedHealthcare,31707.80545797176,171,Urgent,2023-06-16
+947,947,2020-02-04,Katherine Wu,"Turner Romero, And Osborne",Medicare,27389.454213020977,352,Elective,2020-03-01
+948,948,2021-12-13,Johnny Raymond,Barry-Barron,Aetna,20342.175262669323,402,Emergency,2021-12-21
+949,949,2022-01-08,Kathy Murray,Powell Inc,Blue Cross,12989.24509987359,162,Emergency,2022-01-26
+950,950,2023-09-09,Jeffrey Marshall,Espinoza-Gonzalez,Aetna,25845.500666543285,242,Urgent,2023-09-20
+951,951,2023-10-21,Samantha Neal,Gutierrez-Arroyo,UnitedHealthcare,2818.767040904583,327,Urgent,2023-11-06
+952,952,2021-11-05,Jason Higgins,Whitney-Duarte,UnitedHealthcare,23607.40154174944,359,Emergency,2021-12-02
+953,953,2021-04-29,Jennifer Stewart,Sons And Smith,Cigna,46500.61781571131,371,Elective,2021-05-08
+954,954,2023-06-22,Kenneth Garrett,Wright-Santiago,Aetna,32463.662542749607,410,Elective,2023-07-05
+955,955,2021-04-28,Donna Booker,Gates-Kramer,UnitedHealthcare,42470.77313782868,340,Emergency,2021-05-21
+956,956,2021-10-18,Dr. Kyle Anderson Md,Ruiz-Fox,Medicare,37777.10531654793,496,Urgent,2021-11-12
+957,957,2019-05-21,Nicholas Hickman,Padilla-Kerr,Medicare,47184.920024514446,335,Elective,2019-06-11
+958,958,2022-01-19,Jessica Hurley,"Griffith And Bell Smith,",Blue Cross,10427.122002643924,498,Emergency,2022-02-10
+959,959,2022-10-15,Brandon Solis,White And Sons,Cigna,23544.37024309863,292,Urgent,2022-10-27
+960,960,2024-03-16,Angela Charles,Mcgee-Lopez,Aetna,45939.03367368618,112,Urgent,2024-04-08
+961,961,2022-12-16,Kathleen Tucker,"Johnston, And Lopez Anderson",UnitedHealthcare,36967.82821647812,322,Emergency,2022-12-24
+962,962,2023-11-09,Cole Rogers Dds,Norton-Estes,UnitedHealthcare,23140.62036170076,407,Urgent,2023-11-10
+963,963,2023-12-30,Katie Gray,"Figueroa, Edwards Williams And",UnitedHealthcare,4164.125368596209,236,Urgent,2023-12-31
+964,964,2024-01-18,Ronald Henderson,Ltd Crawford,Aetna,9095.578140298376,309,Emergency,2024-01-27
+965,965,2019-08-27,Joseph Alvarez,Lee-Douglas,Aetna,21816.84964652311,128,Elective,2019-09-20
+966,966,2019-09-07,Ashley Allen,Sons And Beck,Aetna,37813.9675774023,112,Elective,2019-09-24
+967,967,2020-09-10,Lisa Moore,Bailey Inc,Aetna,3653.875986851149,221,Elective,2020-09-29
+968,968,2019-09-25,Bryan Zimmerman,King Inc,Cigna,24892.8133686727,397,Urgent,2019-10-19
+969,969,2020-07-16,Robert Moore,"Snyder Wilson, And Spencer",UnitedHealthcare,31384.357704710645,389,Elective,2020-08-13
+970,970,2019-07-27,Connie Austin,Group Castillo,Blue Cross,27121.20484446084,260,Elective,2019-08-03
+971,971,2019-12-07,Janice Gross,Deleon Llc,Aetna,2045.2459419211093,223,Emergency,2019-12-15
+972,972,2020-02-02,Gregory Andrade,"Cook And Curtis Morris,",Cigna,43039.61824753887,360,Emergency,2020-02-26
+973,973,2021-04-23,Timothy Morgan,Smith-Kelly,Medicare,43057.33178081901,466,Urgent,2021-05-17
+974,974,2021-02-27,Terri Davies,"Palmer, Carrillo And Jones",Cigna,2000.5054198148684,239,Elective,2021-03-21
+975,975,2019-10-15,Amy Riggs,Duarte-Little,Medicare,18478.23041608357,464,Elective,2019-10-23
+976,976,2023-04-07,Kimberly Blevins,"Hammond Kelly, Wise And",Blue Cross,6779.609698704659,357,Urgent,2023-05-05
+977,977,2019-12-22,Nathan Smith,Inc Delgado,Medicare,4483.024752274368,315,Elective,2020-01-04
+978,978,2024-04-13,Veronica Owens,"Smith And Wallace, Garcia",Medicare,43398.555655938486,435,Elective,2024-05-11
+979,979,2021-10-16,Amber Robertson,Watson-Scott,Blue Cross,8769.703489806032,428,Emergency,2021-11-05
+980,980,2020-12-02,Jessica Hall,Parsons-Mata,Cigna,11585.670799882642,119,Urgent,2020-12-06
+981,981,2019-11-11,April Cohen,Burch Group,Cigna,42747.53682192462,446,Emergency,2019-11-30
+982,982,2020-01-17,John White,"And Lutz, Smith White",Aetna,18468.90430975796,163,Elective,2020-01-23
+983,983,2019-06-14,Paul Thomas,And Sons Mills,Blue Cross,26046.5607309875,284,Urgent,2019-07-06
+984,984,2023-01-30,John Watson,Schneider And Sons,Cigna,-967.5947058534572,476,Elective,2023-02-13
+985,985,2021-08-17,Alexander Higgins,Hurley Inc,Aetna,8656.07976935275,279,Elective,2021-08-23
+986,986,2021-09-11,Sharon Anderson,Dougherty-Walker,UnitedHealthcare,37130.21390041417,187,Urgent,2021-10-09
