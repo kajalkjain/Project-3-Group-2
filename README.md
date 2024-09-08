@@ -117,6 +117,6 @@ the market share of different insurance providers among the patients in the data
 https://media.licdn.com/dms/image/D5612AQE9qXxEJZB9Kg/article-cover_image-shrink_600_2000/0/1701942603432?e=2147483647&v=beta&t=SaJ3h3bOznZ9mXEOVs_BsupVeThur2AcaByqXJMQltU
 
 ![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
-
+.
 
 
