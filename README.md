@@ -74,9 +74,6 @@ To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic
 
   Visualization: Heatmap or grouped bar chart. (Kajal)
 
-- What is the frequency of different doctors treating specific medical conditions?
-
-  Visualization: Bar chart or heatmap. (Sima)
     
 ## Data Source
 
