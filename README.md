@@ -58,9 +58,7 @@ To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic
 
   Visualization: Box plot or bar chart.(Sima)
 
-- What is the distribution of test results across different age groups?
-
-  Visualization: Stacked bar chart or heatmap.(Sima)
+- c(Sima)
 
 - How do billing amounts and test results relate to different admission types?
 
@@ -74,9 +72,6 @@ To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic
 
   Visualization: Heatmap or grouped bar chart. (Kajal)
 
-- What is the frequency of different doctors treating specific medical conditions?
-
-  Visualization: Bar chart or heatmap. (Sima)
     
 ## Data Source
 
