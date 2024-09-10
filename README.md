@@ -150,9 +150,13 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
 - **Update Connection Details:**
   
     'dbname': 'healthcare',
+    
     'user': 'postgres',
+    
     'password': 'Ab123456',
+    
     'host': 'bootcamp.postgres.database.azure.com',
+    
     'port': '5432'
 
 4. Data Cleaning:
