@@ -103,11 +103,11 @@ We used PostgreSQL as our relational database. Psycopg2 and SQLAlchemy were util
 
 | File Name                             | Description                                           |
 |---------------------------------------|-------------------------------------------------------|
-| [Healthcare_cleaning_dataset_combine.ipynb](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Database-,Healthcare_cleaning_dataset_combine,-.ipynb)    |  Jupyter notebook used for cleaning and manipulating the healthcare dataset.|
-| [Data/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=.ipynb_checkpoints-,Data,-Database) | Directory containing raw and processed datasets.        |
-| [Database/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Data-,Database,-Healthcare_cleaning_dataset_combine.ipynb) | Directory with screenshots of SQL queries.         |
-| [README.md](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.-,md,-dashboard.py)   | This file, detailing the project setup and technologies used.         |
-| [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.md-,dashboard,-.py)   | Python script for creating an interactive dashboard using Dash and Plotly.|
+| [Healthcare_cleaning_dataset_combine.ipynb](https://github.com/kajalkjain/Project-3-Group-2/blob/main/Healthcare_cleaning_dataset_combine.ipynb) |  Jupyter notebook used for cleaning and manipulating the healthcare dataset.|
+| [Data/](https://github.com/kajalkjain/Project-3-Group-2/tree/main/Data) | Directory containing raw and processed datasets.        |
+| [Database/](https://github.com/kajalkjain/Project-3-Group-2/tree/main/Database)| Directory with screenshots of SQL queries.         |
+| [README.md](https://github.com/kajalkjain/Project-3-Group-2/blob/main/README.md)| This file, detailing the project setup and technologies used.         |
+| [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/blob/main/dashboard.py) | Python script for creating an interactive dashboard using Dash and Plotly.|
 
 
 ## How to Run the Project
