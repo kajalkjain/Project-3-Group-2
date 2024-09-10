@@ -148,11 +148,13 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
     from sqlalchemy import create_engine
     ```
 - **Update Connection Details:**
-  - dbname: The name of database ( healthcare).
-  - user: PostgreSQL username ( postgres).
-  - password: Your PostgreSQL password.(which will send to Terrence)
-  - host: The server where PostgreSQL is running ( localhost).
-  - port: The port PostgreSQL is using ( 5432).
+  
+    'dbname': 'healthcare',
+    'user': 'postgres',
+    'password': 'Ab123456',
+    'host': 'bootcamp.postgres.database.azure.com',
+    'port': '5432'
+
 4. Data Cleaning:
 - Open the Jupyter notebook (Healthcare_cleaning_dataset_combine.ipynb) and run it to perform the data cleaning steps.
 5. Running the Dashboard:
