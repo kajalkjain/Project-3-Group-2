@@ -175,9 +175,12 @@ the market share of different insurance providers among the patients in the data
 
 ## Contributions
 
-Sima :  Code updates,data cleaning, SQL
+Sima :  Code updates, data cleaning, Data visualisation, SQL (Database)
+
 Kajal Jain : Data visualisation and dashboard integration.
+
 Napat : Data visualisation and presentations
+
 Jess :  Data visualisation and dashboard integration.
 
 Group contributions for database setup and query optimization.
