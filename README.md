@@ -164,6 +164,7 @@ python dashboard.py
 - Open a browser window and navigate to (http://127.0.0.1:8050/)
   
 This will launch the interactive dashboard where you can explore various visualisations of the cleaned healthcare data.
+<img width="1437" alt="image" src="https://github.com/user-attachments/assets/0d05843d-febb-41c0-a016-35a3c380d156">
 
 
 ## Expected Outcomes
@@ -188,8 +189,5 @@ the market share of different insurance providers among the patients in the data
 
 - Group contributions for database setup and query optimization.
 
-
 ![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
-
-
 
