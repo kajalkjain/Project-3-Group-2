@@ -4,7 +4,7 @@
 
 **A Short Project Proposal**
 
-The main aim of our project is to provide insights into trends, costs and the outcomes within the healthcare industry, potentially helping healthcare providers, policymakers and patients to make more informed decisions.
+This project is aimed at analyzing healthcare data, cleaning the dataset, and creating a data visualization dashboard using Python. We utilized several libraries and tools for database management, data cleaning, and interactive visualization. The project demonstrates end-to-end data processing, including database queries and visual representation of results.
 
 ![image](https://github.com/user-attachments/assets/37a95756-a8c3-410f-b9b3-9311cfa85882)
 
@@ -92,14 +92,76 @@ Regression plots to analyse the relationship between variables such as age and b
 
 **Tools and Technologies**
 
+1. **Python**
+-Core programming language used for data cleaning, manipulation, and visualization. 
+2. **Pandas**
+-Used for data manipulation and reading CSV files. It was also instrumental in cleaning the data and preparing it for visualization.
+3. **Jupyter Notebook**
+The notebook (Healthcare_cleaning_dataset_combine.ipynb) was used for performing data cleaning, transformations, and exploratory data analysis (EDA).
+4. **CSV Library**
+-The built-in CSV library was used for reading and writing CSV files when working with raw and processed datasets.
+5. **SQL (PostgreSQL)**
+We used PostgreSQL as our relational database. Psycopg2 and SQLAlchemy were utilized to connect Python to the PostgreSQL database and run queries to retrieve data.
+6. **Data Visualization**
+- Plotly: For creating interactive visualizations integrated into the dashboard.
+- Dash: Used to create the interactive dashboard that visualizes the cleaned data.
+- Seaborn & Matplotlib: Additional libraries for more static and detailed visualizations during the data exploration phase.
   
-  - **Python Pandas** For data cleaning,transforming and analysis
-  
-  - **PostgreSQL** To store and extra data(Napat gentle reminder to work on this)
-  
-  - **Data Visualisation** Python (Matplotlib(bar charts, pie charts),Pandas plotting, hvplot)
-                         Seaborn: Providing a more visually appealing and informative set of default styles and colour palettes.
-                         Jupyter Notebook: To interactively explore and analyse data
+## Project Structure
+
+| File Name                             | Description                                           |
+|---------------------------------------|-------------------------------------------------------|
+| [Healthcare_cleaning_dataset_combine.ipynb](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Database-,Healthcare_cleaning_dataset_combine,-.ipynb)    |  Jupyter notebook used for cleaning and manipulating the healthcare dataset.|
+| [Data/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=.ipynb_checkpoints-,Data,-Database) | Directory containing raw and processed datasets.        |
+| [Database/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Data-,Database,-Healthcare_cleaning_dataset_combine.ipynb) | Directory with screenshots of SQL queries.         |
+| [README.md](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.-,md,-dashboard.py)   | This file, detailing the project setup and technologies used.         |
+| [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.md-,dashboard,-.py)   | Python script for creating an interactive dashboard using Dash and Plotly.|
+
+
+## How to Run the Project
+### Prerequisites
+- Python 3.x
+- PostgreSQL
+- Install the required Python libraries using the following commands:
+```bash
+conda install dash pandas plotly psycopg2 sqlalchemy seabon matplotlib
+```
+### Steps
+1. Clone the repository:
+```bash
+git clone https://github.com/kajalkjain/Project-3-Group-2.git
+```
+2. Database Setup:
+- Set up a PostgreSQL database and ensure it is populated with the required dataset.
+- The queries used for extracting and manipulating the data are stored in the Database/ folder as screenshots.
+3. Set Up Database Connection in the Code
+- Update the following connection parameters in the code to match your PostgreSQL setup:
+- **Install Required Libraries:**
+  - Install the libraries to connect and interact with the PostgreSQL database:
+    ```bash
+    pip install psycopg2-binary sqlalchemy
+    ```
+- **Set Up Connection in Python Script:**
+  - In your Python script, use SQLAlchemy to create the connection and psycopg2 as the driver.
+  - Example code for connecting to the database:
+    ```python
+    from sqlalchemy import create_engine
+    ```
+- **Update Connection Details:**
+  - dbname: The name of database ( healthcare).
+  - user: PostgreSQL username ( postgres).
+  - password: Your PostgreSQL password.(which will send to Terrence)
+  - host: The server where PostgreSQL is running ( localhost).
+  - port: The port PostgreSQL is using ( 5432).
+4. Data Cleaning:
+- Open the Jupyter notebook (Healthcare_cleaning_dataset_combine.ipynb) and run it to perform the data cleaning steps.
+5. Running the Dashboard:
+- Execute the dashboard.py script to run the Dash application
+```bash
+python dashboard.py
+```
+This will launch the interactive dashboard where you can explore various visualisations of the cleaned healthcare data.
+
 
 ## Expected Outcomes
 - **Goal:** To provide clear insights into how different features impact the prediction of medical test results.
@@ -111,7 +173,15 @@ the market share of different insurance providers among the patients in the data
 
 - **To Target Audience:** Helps healthcare professionals and data scientists understand which factors are most influential in predicting test results, leading to more transparent and interpretable models. Helps inform feature engineering and model development strategies
 
-https://media.licdn.com/dms/image/D5612AQE9qXxEJZB9Kg/article-cover_image-shrink_600_2000/0/1701942603432?e=2147483647&v=beta&t=SaJ3h3bOznZ9mXEOVs_BsupVeThur2AcaByqXJMQltU
+## Contributions
+
+Sima :  Code updates,data cleaning, SQL
+Kajal Jain : Data visualisation and dashboard integration.
+Napat : Data visualisation and presentations
+Jess :  Data visualisation and dashboard integration.
+
+Group contributions for database setup and query optimization.
+
 
 ![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
 
