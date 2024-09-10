@@ -62,14 +62,6 @@ To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic
 
   Visualization: Stacked bar chart or heatmap.(Sima)
 
-- How do billing amounts and test results relate to different admission types?
-
-  Visualization: Scatter plot or box plot.(Kajal)
-
-- What are the most common medical conditions per hospital?
-
-  Visualization: Bar chart or heatmap.(Kajal)
-
 - How do patient demographics (age, gender) influence the types of test results?
 
   Visualization: Heatmap or grouped bar chart. (Kajal)
@@ -146,6 +138,8 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
   - Example code for connecting to the database:
     ```python
     from sqlalchemy import create_engine
+    import psycopg2
+
     ```
 - **Update Connection Details:**
   
