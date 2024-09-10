@@ -142,7 +142,7 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
 
     ```
 - **Update Connection Details:**
-  
+  ```
     'dbname': 'healthcare',
     
     'user': 'postgres',
@@ -152,6 +152,7 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
     'host': 'bootcamp.postgres.database.azure.com',
     
     'port': '5432'
+  ```
 
 4. Data Cleaning:
 - Open the Jupyter notebook (Healthcare_cleaning_dataset_combine.ipynb) and run it to perform the data cleaning steps.
@@ -160,6 +161,8 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
 ```bash
 python dashboard.py
 ```
+- Open a browser window and navigate to (http://127.0.0.1:8050/)
+  
 This will launch the interactive dashboard where you can explore various visualisations of the cleaned healthcare data.
 
 
@@ -175,15 +178,15 @@ the market share of different insurance providers among the patients in the data
 
 ## Contributions
 
-Sima :  Code updates, data cleaning, Data visualisation, SQL (Database)
+- Sima :  Code updates, data cleaning, Data visualisation, SQL (Database)
 
-Kajal Jain : Data visualisation and dashboard integration.
+- Kajal Jain : Data visualisation and dashboard integration.
 
-Napat : Data visualisation and presentations
+- Napat : Data visualisation and presentations
 
-Jess :  Data visualisation and dashboard integration.
+- Jess :  Data visualisation and dashboard integration.
 
-Group contributions for database setup and query optimization.
+- Group contributions for database setup and query optimization.
 
 
 ![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
