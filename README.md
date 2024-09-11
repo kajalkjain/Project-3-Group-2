@@ -191,5 +191,4 @@ the market share of different insurance providers among the patients in the data
 
 - Group contributions for database setup and query optimization.
 
-![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
 
