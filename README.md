@@ -2,7 +2,7 @@
 
 ## Healthcare
 
-**A Short Project Proposal**
+**Project Proposal**
 
 This project is aimed at analyzing healthcare data, cleaning the dataset, and creating a data visualization dashboard using Python. We utilized several libraries and tools for database management, data cleaning, and interactive visualization. The project demonstrates end-to-end data processing, including database queries and visual representation of results.
 
