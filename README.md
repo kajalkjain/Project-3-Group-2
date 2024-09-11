@@ -109,6 +109,8 @@ We used PostgreSQL as our relational database. Psycopg2 and SQLAlchemy were util
 | [README.md](https://github.com/kajalkjain/Project-3-Group-2/blob/main/README.md)| This file, detailing the project setup and technologies used.         |
 | [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/blob/main/dashboard.py) | Python script for creating an interactive dashboard using Dash and Plotly.|
 
+<img width="942" alt="Screen Shot 2024-09-11 at 13 48 30" src="https://github.com/user-attachments/assets/0a42b3fa-4b0a-4c43-8de5-134ab664a5a5">
+
 
 ## How to Run the Project
 ### Prerequisites
