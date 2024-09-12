@@ -2,7 +2,7 @@
 
 ## Healthcare
 
-**Project Proposal**
+**A Short Project Proposal**
 
 This project is aimed at analyzing healthcare data, cleaning the dataset, and creating a data visualization dashboard using Python. We utilized several libraries and tools for database management, data cleaning, and interactive visualization. The project demonstrates end-to-end data processing, including database queries and visual representation of results.
 
@@ -62,6 +62,14 @@ To predict medical test results (Normal, Abnormal, Inconclusive) using synthetic
 
   Visualization: Stacked bar chart or heatmap.(Sima)
 
+- How do billing amounts and test results relate to different admission types?
+
+  Visualization: Scatter plot or box plot.(Kajal)
+
+- What are the most common medical conditions per hospital?
+
+  Visualization: Bar chart or heatmap.(Kajal)
+
 - How do patient demographics (age, gender) influence the types of test results?
 
   Visualization: Heatmap or grouped bar chart. (Kajal)
@@ -103,13 +111,11 @@ We used PostgreSQL as our relational database. Psycopg2 and SQLAlchemy were util
 
 | File Name                             | Description                                           |
 |---------------------------------------|-------------------------------------------------------|
-| [Healthcare_cleaning_dataset_combine.ipynb](https://github.com/kajalkjain/Project-3-Group-2/blob/main/Healthcare_cleaning_dataset_combine.ipynb) |  Jupyter notebook used for cleaning and manipulating the healthcare dataset.|
-| [Data/](https://github.com/kajalkjain/Project-3-Group-2/tree/main/Data) | Directory containing raw and processed datasets.        |
-| [Database/](https://github.com/kajalkjain/Project-3-Group-2/tree/main/Database)| Directory with screenshots of SQL queries.         |
-| [README.md](https://github.com/kajalkjain/Project-3-Group-2/blob/main/README.md)| This file, detailing the project setup and technologies used.         |
-| [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/blob/main/dashboard.py) | Python script for creating an interactive dashboard using Dash and Plotly.|
-
-<img width="942" alt="Screen Shot 2024-09-11 at 13 48 30" src="https://github.com/user-attachments/assets/0a42b3fa-4b0a-4c43-8de5-134ab664a5a5">
+| [Healthcare_cleaning_dataset_combine.ipynb](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Database-,Healthcare_cleaning_dataset_combine,-.ipynb)    |  Jupyter notebook used for cleaning and manipulating the healthcare dataset.|
+| [Data/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=.ipynb_checkpoints-,Data,-Database) | Directory containing raw and processed datasets.        |
+| [Database/](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=Data-,Database,-Healthcare_cleaning_dataset_combine.ipynb) | Directory with screenshots of SQL queries.         |
+| [README.md](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.-,md,-dashboard.py)   | This file, detailing the project setup and technologies used.         |
+| [dashboard.py](https://github.com/kajalkjain/Project-3-Group-2/edit/main/README.md#:~:text=README.md-,dashboard,-.py)   | Python script for creating an interactive dashboard using Dash and Plotly.|
 
 
 ## How to Run the Project
@@ -140,11 +146,9 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
   - Example code for connecting to the database:
     ```python
     from sqlalchemy import create_engine
-    import psycopg2
-
     ```
 - **Update Connection Details:**
-  ```
+  
     'dbname': 'healthcare',
     
     'user': 'postgres',
@@ -154,7 +158,6 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
     'host': 'bootcamp.postgres.database.azure.com',
     
     'port': '5432'
-  ```
 
 4. Data Cleaning:
 - Open the Jupyter notebook (Healthcare_cleaning_dataset_combine.ipynb) and run it to perform the data cleaning steps.
@@ -163,10 +166,7 @@ git clone https://github.com/kajalkjain/Project-3-Group-2.git
 ```bash
 python dashboard.py
 ```
-- Open a browser window and navigate to (http://127.0.0.1:8050/)
-  
 This will launch the interactive dashboard where you can explore various visualisations of the cleaned healthcare data.
-<img width="1437" alt="image" src="https://github.com/user-attachments/assets/0d05843d-febb-41c0-a016-35a3c380d156">
 
 
 ## Expected Outcomes
@@ -181,14 +181,18 @@ the market share of different insurance providers among the patients in the data
 
 ## Contributions
 
-- Sima :  Code updates, data cleaning, Data visualisation, SQL (Database)
+Sima :  Code updates, data cleaning, Data visualisation, SQL (Database)
 
-- Kajal Jain : Data visualisation and dashboard integration.
+Kajal Jain : Data visualisation and dashboard integration.
 
-- Napat : Data visualisation and presentations
+Napat : Data visualisation and presentations
 
-- Jess :  Data visualisation and dashboard integration.
+Jess :  Data visualisation and dashboard integration.
 
-- Group contributions for database setup and query optimization.
+Group contributions for database setup and query optimization.
+
+
+![1701942603432](https://github.com/user-attachments/assets/609b2e25-9a62-4acb-ac85-b64158054b2e)
+
 
 
